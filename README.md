@@ -181,7 +181,7 @@ file and column names, or update the notebooks to match.
 For queries or support:
 
 **Anil Kumar**
-Email: [your-email@institution.edu]
+Email: [anildamaraju@gmail.com]
 Department: [Department Name]
 
 ---
