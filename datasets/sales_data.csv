@@ -1,0 +1,1216 @@
+Order_ID,Order_Date,Region,City,Customer_Segment,Category,Product,Quantity,Unit_Price,Discount,Payment_Mode
+ORD10069,2024-01-01,North,Delhi,Consumer,Clothing,Jeans,2.0,1412.69,0.05,Credit Card
+ORD10125,2024-01-02,North,Chandigarh,Consumer,Electronics,Headphones,1.0,2362.65,0.15,Cash
+ORD11101,2024-01-02,South,Hyderabad,Corporate,Electronics,Smartphone,3.0,17702.51,0.05,Credit Card
+ORD10395,2024-01-03,Central,Nagpur,Corporate,Electronics,Headphones,8.0,2368.19,0.05,Debit Card
+ORD11161,2024-01-03,East,Bhubaneswar,Corporate,Electronics,Smartphone,2.0,16847.36,0.0,UPI
+ORD10075,2024-01-04,South,Chennai,Consumer,Office Supplies,Stapler,7.0,173.77,0.0,UPI
+ORD10150,2024-01-04,South,Chennai,Consumer,Electronics,Monitor,1.0,9924.61,0.2,Cash
+ORD10281,2024-01-04,East,Bhubaneswar,Corporate,Electronics,Headphones,10.0,2286.52,0.0,UPI
+ORD10423,2024-01-04,South,Bengaluru,Consumer,Electronics,Headphones,9.0,2253.73,0.0,Credit Card
+ORD10511,2024-01-04,North,Chandigarh,Corporate,Office Supplies,Notebook Pack,1.0,251.82,0.15,UPI
+ORD10635,2024-01-04,West,Pune,Corporate,Office Supplies,Stapler,2.0,175.57,0.2,Credit Card
+ORD11019,2024-01-04,South,Hyderabad,Small Business,Office Supplies,Stapler,8.0,166.93,0.0,Debit Card
+ORD10239,2024-01-05,South,Hyderabad,Corporate,Office Supplies,Pen Set,8.0,114.66,0.15,Credit Card
+ORD10763,2024-01-05,West,Ahmedabad,Small Business,Office Supplies,Pen Set,8.0,110.79,0.05,Credit Card
+ORD10415,2024-01-07,South,Hyderabad,Consumer,Electronics,Smartphone,2.0,18436.44,0.0,Cash
+ORD10451,2024-01-07,East,Kolkata,Consumer,Electronics,Headphones,7.0,2301.47,0.05,UPI
+ORD10797,2024-01-07,Central,Nagpur,Consumer,Electronics,Laptop,3.0,50787.88,0.05,Net Banking
+ORD10841,2024-01-07,South,Chennai,Small Business,Clothing,T-Shirt,10.0,612.94,0.0,Credit Card
+ORD10287,2024-01-08,East,Kolkata,Small Business,Furniture,Office Chair,2.0,6857.75,0.05,Net Banking
+ORD10568,2024-01-08,North,Chandigarh,Consumer,Electronics,Laptop,2.0,48768.79,0.0,Debit Card
+ORD10972,2024-01-08,East,Patna,Corporate,Clothing,Saree,2.0,3363.59,0.0,Cash
+ORD10018,2024-01-09,East,Bhubaneswar,Consumer,Office Supplies,Whiteboard,8.0,1699.37,0.1,Credit Card
+ORD10449,2024-01-09,West,Mumbai,Consumer,Furniture,Sofa,3.0,31392.17,0.1,UPI
+ORD10555,2024-01-09,South ,Bengaluru,Small Business,Furniture,Office Chair,,7429.98,0.1,Credit Card
+ORD10683,2024-01-09,South,Bengaluru,Corporate,Electronics,Headphones,3.0,2511.09,0.0,Cash
+ORD10768,2024-01-09,South,Chennai,Consumer,Clothing,Jeans,2.0,1630.6,0.05,Credit Card
+ORD10812,2024-01-09,West,Ahmedabad,Consumer,Office Supplies,Printer Ink,10.0,1252.73,0.1,UPI
+ORD10085,2024-01-11,South,Bengaluru,Corporate,Electronics,Headphones,9.0,2452.14,0.05,Debit Card
+ORD10176,2024-01-11,West,Mumbai,Consumer,Electronics,Laptop,3.0,50716.0,0.0,Net Banking
+ORD10643,2024-01-11,West,Pune,Consumer,Office Supplies,Pen Set,9.0,118.79,0.0,UPI
+ORD11158,2024-01-11,Central,Bhopal,Consumer,Office Supplies,Notebook Pack,4.0,249.9,0.15,UPI
+ORD10028,2024-01-12,South,Bengaluru,Consumer,Electronics,Smartphone,1.0,18675.12,0.0,UPI
+ORD10485,2024-01-12,East,Bhubaneswar,Corporate,Furniture,Sofa,2.0,29878.35,0.1,UPI
+ORD10164,2024-01-13,Central,Indore,Small Business,Office Supplies,Printer Ink,7.0,1300.48,0.0,UPI
+ORD10435,2024-01-13,South,Hyderabad,Small Business,Office Supplies,Stapler,7.0,163.51,0.0,Net Banking
+ORD10766,2024-01-13,North,Chandigarh,Corporate,Office Supplies,Printer Ink,8.0,1266.34,0.0,Credit Card
+ORD10872,2024-01-13,South,Chennai,Consumer,Furniture,Office Chair,3.0,7374.77,0.0,UPI
+ORD10590,2024-01-14,North,Lucknow,Consumer,Office Supplies,Stapler,9.0,174.58,0.1,Cash
+ORD10681,2024-01-14,North,Delhi,Corporate,Office Supplies,Notebook Pack,10.0,228.68,0.0,UPI
+ORD11156,2024-01-14,West,Pune,Corporate,Office Supplies,Whiteboard,2.0,1535.38,0.2,Debit Card
+ORD10513,2024-01-15,West,Mumbai,Consumer,Electronics,Monitor,3.0,10120.72,0.0,Cash
+ORD10723,2024-01-15,South,Chennai,Consumer,Electronics,Headphones,5.0,2692.82,0.1,Net Banking
+ORD10732,2024-01-15,South,Hyderabad,Consumer,Furniture,Bookshelf,3.0,5796.27,0.05,UPI
+ORD10741,2024-01-16,Central ,Nagpur,Corporate,Electronics,Monitor,1.0,10368.14,0.1,UPI
+ORD11069,2024-01-17,South,Chennai,Small Business,Electronics,Smartwatch,3.0,Rs.6543.15,0.0,UPI
+ORD11139,2024-01-17,South,Hyderabad,Consumer,Office Supplies,Whiteboard,2.0,1686.79,0.0,Credit Card
+ORD11069,2024-01-17,South,Chennai,Small Business,Electronics,Smartwatch,3.0,Rs.6543.15,0.0,UPI
+ORD10633,2024-01-18,West,Mumbai,Consumer,Furniture,Sofa,3.0,28951.63,0.0,Debit Card
+ORD10744,2024-01-18,South,Chennai,Small Business,Electronics,Headphones,2.0,,0.2,Debit Card
+ORD10292,2024-01-19,North,Delhi,Corporate,Furniture,Study Table,3.0,Rs.9533.64,0.2,Debit Card
+ORD10903,2024-01-19,South,Chennai,Consumer,Electronics,Laptop,1.0,47168.77,0.1,Cash
+ORD10903,2024-01-19,South,Chennai,Consumer,Electronics,Laptop,1.0,47168.77,0.1,Cash
+ORD10429,2024-01-20,South,Chennai,Corporate,Electronics,Monitor,2.0,10973.55,0.0,UPI
+ORD10917,2024-01-20,Central,Nagpur,Corporate,Clothing,Jacket,4.0,3051.35,0.15,Cash
+ORD10259,2024-01-21,Central,Nagpur,Corporate,Office Supplies,Pen Set,5.0,127.63,0.05,UPI
+ORD10759,2024-01-21,Central,Bhopal,Corporate,Office Supplies,Pen Set,5.0,121.77,0.2,UPI
+ORD10650,2024-01-22,East,Patna,Consumer,Office Supplies,Pen Set,10.0,120.39,0.0,Credit Card
+ORD10821,2024-01-22,North,Chandigarh,Consumer,Clothing,T-Shirt,7.0,658.69,0.1,Credit Card
+ORD11157,2024-01-22,North,Chandigarh,Corporate,Clothing,Saree,10.0,3533.45,0.1,Cash
+ORD10647,2024-01-23,East,Patna,Small Business,Office Supplies,Stapler,5.0,162.61,0.1,Credit Card
+ORD10735,2024-01-23,South,Hyderabad,Corporate,Electronics,Laptop,1.0,48857.17,0.05,UPI
+ORD10795,2024-01-23,East,Kolkata,Consumer,Clothing,Saree,2.0,3813.88,0.0,Debit Card
+ORD10988,2024-01-23,West,Mumbai,Corporate,Office Supplies,Notebook Pack,4.0,274.15,0.1,UPI
+ORD10735,2024-01-23,South,Hyderabad,Corporate,Electronics,Laptop,1.0,48857.17,0.05,UPI
+ORD10205,2024-01-24,West,Mumbai,Consumer,Furniture,Bookshelf,1.0,5330.84,0.05,UPI
+ORD10595,2024-01-24,West,Pune,Consumer,Electronics,Headphones,10.0,2568.96,0.1,Debit Card
+ORD10620,2024-01-24,East,Kolkata,Small Business,Office Supplies,Pen Set,8.0,129.42,0.0,Credit Card
+ORD10826,2024-01-24,Central,Bhopal,Consumer,Office Supplies,Whiteboard,4.0,1567.08,0.1,Credit Card
+ORD10271,2024-01-25,South,Bengaluru,Corporate,Office Supplies,Notebook Pack,3.0,242.19,0.0,UPI
+ORD10422,2024-01-26,Central,Nagpur,Corporate,Clothing,Jacket,9.0,2872.53,0.1,Credit Card
+ORD10535,2024-01-26,North,Lucknow,Corporate,Electronics,Smartphone,3.0,19233.94,0.2,Credit Card
+ORD11001,2024-01-26,Central,Bhopal,Consumer,Clothing,Jeans,1.0,1550.21,0.0,UPI
+ORD10273,2024-01-27,South,Hyderabad,Small Business,Clothing,T-Shirt,9.0,542.4,0.1,Debit Card
+ORD10519,2024-01-27,West,Pune,Consumer,Office Supplies,Pen Set,10.0,117.92,0.1,Debit Card
+ORD10052,2024-01-28,West,Mumbai,Consumer,Electronics,Smartphone,2.0,19137.24,0.0,UPI
+ORD10726,2024-01-28,North,Lucknow,Corporate,Clothing,Jacket,6.0,2793.82,0.0,UPI
+ORD10728,2024-01-29,North,Chandigarh,Corporate,Office Supplies,Stapler,10.0,195.32,0.0,Credit Card
+ORD11045,2024-01-29,South,Hyderabad,Consumer,Electronics,Smartwatch,2.0,6338.23,0.15,UPI
+ORD10270,2024-01-30,South,Hyderabad,Corporate,Office Supplies,Printer Ink,3.0,1273.03,0.05,UPI
+ORD10811,2024-01-30,East,Kolkata,Consumer,Electronics,Monitor,3.0,9957.15,0.1,Cash
+ORD10998,2024-01-30,West,Pune,Consumer,Clothing,Jeans,5.0,1411.85,0.05,Cash
+ORD10136,2024-01-31,South,Chennai,Corporate,Office Supplies,Stapler,5.0,191.75,0.1,Debit Card
+ORD10227,2024-01-31,North,Lucknow,Consumer,Office Supplies,Pen Set,10.0,109.17,0.05,Debit Card
+ORD10424,2024-01-31,North,Chandigarh,Consumer,Clothing,Saree,2.0,3769.16,0.1,UPI
+ORD10775,2024-01-31,West,Mumbai,Consumer,Furniture,Office Chair,3.0,8034.92,0.0,Credit Card
+ORD11116,2024-01-31,South,Bengaluru,Consumer,Office Supplies,Printer Ink,3.0,1080.73,0.0,UPI
+ORD10099,2024-02-01,East,Kolkata,Consumer,Office Supplies,Stapler,4.0,196.2,0.1,UPI
+ORD10389,2024-02-01,East,Patna,Consumer,Office Supplies,Printer Ink,3.0,1234.58,0.0,UPI
+ORD11105,2024-02-01,South,Bengaluru,Corporate,Electronics,Smartphone,3.0,17047.83,0.0,UPI
+ORD10060,2024-02-02,East,Patna,Corporate,Clothing,Saree,8.0,3191.1,0.05,Net Banking
+ORD10218,2024-02-02,SOUTH,Bengaluru,Corporate,Office Supplies,Printer Ink,1.0,1149.17,0.1,Credit Card
+ORD10230,2024-02-02,West,Pune,Corporate,Office Supplies,Printer Ink,4.0,1204.61,0.0,Credit Card
+ORD10364,2024-02-02,North,Chandigarh,Corporate,Clothing,Saree,1.0,3492.46,0.0,Cash
+ORD10404,2024-02-02,East,Patna,Corporate,Furniture,Bookshelf,3.0,5880.0,0.0,UPI
+ORD10938,2024-02-02,South,Bengaluru,Corporate,Electronics,Laptop,1.0,56356.17,0.1,Credit Card
+ORD10963,2024-02-02,South,Hyderabad,Consumer,Office Supplies,Printer Ink,10.0,1109.91,0.0,Debit Card
+ORD11052,2024-02-02,West,Ahmedabad,Corporate,Clothing,Jeans,6.0,1413.64,0.0,UPI
+ORD11133,2024-02-02,West,Mumbai,Consumer,Electronics,Smartwatch,2.0,6333.7,0.05,UPI
+ORD10129,2024-02-03,South,Hyderabad,Consumer,Electronics,Smartphone,3.0,16621.01,0.1,UPI
+ORD10269,2024-02-03,South,Chennai,Consumer,Office Supplies,Whiteboard,1.0,1515.61,0.05,UPI
+ORD10921,2024-02-03,North,Lucknow,Corporate,Office Supplies,Notebook Pack,1.0,263.94,0.15,Cash
+ORD10664,2024-02-04,North,Lucknow,Small Business,Electronics,Monitor,2.0,10775.1,0.15,Net Banking
+ORD10869,2024-02-04,North,Delhi,Consumer,Office Supplies,Stapler,4.0,165.97,0.2,UPI
+ORD10908,2024-02-04,West,Pune,Corporate,Office Supplies,Whiteboard,5.0,1662.1,0.15,Credit Card
+ORD10050,2024-02-05,West,Pune,Corporate,Electronics,Smartwatch,3.0,6870.14,0.2,UPI
+ORD10392,2024-02-05,South,Hyderabad,Consumer,Electronics,Smartwatch,1.0,7092.0,0.0,UPI
+ORD11003,2024-02-05,South,Bengaluru,Consumer,Office Supplies,Printer Ink,6.0,1213.48,0.1,UPI
+ORD11117,2024-02-05,West,Ahmedabad,Small Business,Clothing,Jeans,7.0,1516.68,0.0,Credit Card
+ORD10050,2024-02-05,West,Pune,Corporate,Electronics,Smartwatch,3.0,6870.14,0.2,UPI
+ORD10341,2024-02-06,North,Chandigarh,Consumer,Office Supplies,Whiteboard,6.0,1678.91,0.0,Credit Card
+ORD10413,2024-02-06,South,Hyderabad,Small Business,Electronics,Smartwatch,2.0,7124.83,0.0,UPI
+ORD10679,2024-02-06,Central,Bhopal,Small Business,Office Supplies,Stapler,9.0,192.18,0.0,Debit Card
+ORD10794,2024-02-06,West,Pune,Consumer,Electronics,Monitor,1.0,10474.88,0.0,UPI
+ORD10888,2024-02-06,East,Kolkata,Corporate,Electronics,Smartphone,3.0,17843.43,0.0,Debit Card
+ORD11183,2024-02-06,West,Pune,Corporate,Electronics,Smartphone,1.0,17442.05,0.0,Cash
+ORD10123,2024-02-07,East,Kolkata,Corporate,Electronics,Smartphone,3.0,17856.13,0.05,Credit Card
+ORD10153,2024-02-07,Central,Bhopal,Consumer,Clothing,Saree,8.0,3220.53,0.0,UPI
+ORD10474,2024-02-07,South,Bengaluru,Small Business,Office Supplies,Notebook Pack,1.0,271.62,0.1,Cash
+ORD10258,2024-02-08,South,Bengaluru,Corporate,Electronics,Headphones,8.0,2506.28,0.0,Debit Card
+ORD11170,2024-02-08,South,Hyderabad,Small Business,Furniture,Sofa,2.0,33416.96,0.0,Cash
+ORD10805,2024-02-09,West,Pune,Consumer,Electronics,Smartphone,1.0,16577.3,0.0,Debit Card
+ORD10894,2024-02-09,South,Hyderabad,Small Business,Furniture,Office Chair,2.0,6771.7,0.0,UPI
+ORD10973,2024-02-09,Central,Bhopal,Corporate,Office Supplies,Printer Ink,8.0,1086.95,0.0,Credit Card
+ORD10188,2024-02-10,East,Kolkata,Consumer,Office Supplies,Notebook Pack,5.0,230.61,0.05,UPI
+ORD10764,2024-02-10,South,Hyderabad,Corporate,Electronics,Smartwatch,3.0,6275.3,0.1,UPI
+ORD11122,2024-02-10,South,Hyderabad,Consumer,Clothing,Jacket,3.0,2530.95,0.0,Debit Card
+ORD10086,2024-02-11,East,Bhubaneswar,Consumer,Office Supplies,Whiteboard,7.0,1612.0,0.1,UPI
+ORD10363,2024-02-11,North,Lucknow,Consumer,Office Supplies,Stapler,1.0,172.92,0.0,Cash
+ORD10510,2024-02-11,West,Pune,Consumer,Electronics,Laptop,1.0,56167.09,0.15,Cash
+ORD11054,2024-02-11,North,Delhi,Consumer,Electronics,Headphones,1.0,2579.57,0.1,Credit Card
+ORD10005,2024-02-12,Central,Nagpur,Consumer,Electronics,Headphones,2.0,2358.46,0.0,Debit Card
+ORD10109,2024-02-12,East,Bhubaneswar,Small Business,Electronics,Smartphone,3.0,17068.73,0.05,Debit Card
+ORD10742,2024-02-12,West,Mumbai,Consumer,Furniture,Sofa,2.0,31278.76,0.05,UPI
+ORD10918,2024-02-12,West,Mumbai,Small Business,Furniture,Office Chair,2.0,7710.08,0.1,Cash
+ORD10294,2024-02-13,South,Chennai,Corporate,Clothing,Jacket,4.0,2980.07,0.05,UPI
+ORD10335,2024-02-13,East,Bhubaneswar,Consumer,Clothing,T-Shirt,9.0,622.99,0.0,Debit Card
+ORD10362,2024-02-13,Central,Indore,Corporate,Electronics,Laptop,1.0,55260.68,0.0,Debit Card
+ORD10525,2024-02-13,North,Lucknow,Consumer,Office Supplies,Whiteboard,7.0,1463.9,0.1,Cash
+ORD10608,2024-02-13,South,Chennai,Corporate,Electronics,Smartphone,3.0,17887.11,0.1,UPI
+ORD10671,2024-02-13,West,Ahmedabad,Corporate,Office Supplies,Stapler,1.0,185.18,0.15,UPI
+ORD10725,2024-02-13,North,Lucknow,Consumer,Office Supplies,Printer Ink,8.0,1161.56,0.0,UPI
+ORD11151,2024-02-13,North,Delhi,Consumer,Office Supplies,Pen Set,4.0,118.28,0.05,Credit Card
+ORD10009,2024-02-14,Central,Bhopal,Consumer,Office Supplies,Stapler,5.0,192.96,0.0,Cash
+ORD10059,2024-02-14,East,Kolkata,Corporate,Furniture,Study Table,3.0,9061.03,0.0,Net Banking
+ORD10140,2024-02-15,East,Bhubaneswar,Consumer,Furniture,Bookshelf,1.0,5406.34,0.0,Credit Card
+ORD10264,2024-02-15,Central,Bhopal,Consumer,Office Supplies,Pen Set,6.0,111.3,0.05,Credit Card
+ORD10339,2024-02-15,South,Hyderabad,Corporate,Clothing,Saree,6.0,Rs.3362.27,0.1,UPI
+ORD10548,2024-02-15,West,Pune,Consumer,Furniture,Bookshelf,1.0,5365.82,0.2,UPI
+ORD10193,2024-02-16,south,Chennai,Corporate,Office Supplies,Notebook Pack,4.0,272.58,0.2,Debit Card
+ORD10207,2024-02-16,North,Lucknow,Small Business,Furniture,Bookshelf,2.0,4961.14,0.05,UPI
+ORD10209,2024-02-16,South,Hyderabad,Corporate,Electronics,Smartphone,1.0,18715.08,0.0,Net Banking
+ORD10865,2024-02-16,North,Delhi,Consumer,Clothing,Saree,2.0,3749.78,0.0,Cash
+ORD10161,2024-02-17,South,Hyderabad,Corporate,Furniture,Bookshelf,2.0,5105.42,0.15,UPI
+ORD10204,2024-02-17,North,Lucknow,Corporate,Electronics,Laptop,1.0,51953.11,0.0,Credit Card
+ORD10337,2024-02-17,East,Bhubaneswar,Consumer,Furniture,Office Chair,3.0,7176.01,0.05,Credit Card
+ORD10815,2024-02-17,East,Patna,Consumer,Office Supplies,Printer Ink,5.0,1156.64,0.15,Credit Card
+ORD10619,2024-02-18,North,Delhi,Consumer,Clothing,Jeans,8.0,1561.39,0.05,UPI
+ORD10037,2024-02-19,East,Patna,Consumer,Electronics,Monitor,1.0,10563.08,0.0,Debit Card
+ORD10718,2024-02-19,SOUTH,Hyderabad,Corporate,Clothing,Saree,2.0,3602.33,0.2,UPI
+ORD11189,2024-02-19,West,Ahmedabad,Consumer,Clothing,T-Shirt,8.0,632.08,0.15,Credit Card
+ORD10417,2024-02-20,South,Chennai,Consumer,Electronics,Smartphone,1.0,17305.92,0.1,Net Banking
+ORD10806,2024-02-20,West,Ahmedabad,Consumer,Electronics,Laptop,3.0,52106.99,0.15,UPI
+ORD10455,2024-02-21,West,Ahmedabad,Consumer,Office Supplies,Notebook Pack,4.0,272.88,0.2,UPI
+ORD10628,2024-02-22,South,Bengaluru,Corporate,Electronics,Monitor,1.0,10497.73,0.0,UPI
+ORD10845,2024-02-22,South,Hyderabad,Small Business,Clothing,T-Shirt,10.0,652.76,0.2,UPI
+ORD10409,2024-02-23,South,Chennai,Consumer,Electronics,Laptop,2.0,55949.68,0.0,Credit Card
+ORD10733,2024-02-23,South,Hyderabad,Consumer,Electronics,Headphones,8.0,2729.7,0.05,Debit Card
+ORD11182,2024-02-23,West,Mumbai,Consumer,Office Supplies,Pen Set,7.0,118.4,0.1,UPI
+ORD10302,2024-02-24,Central,Bhopal,Small Business,Electronics,Headphones,7.0,2529.86,0.0,UPI
+ORD10473,2024-02-24,North,Chandigarh,Consumer,Office Supplies,Whiteboard,2.0,1450.01,0.0,UPI
+ORD10545,2024-02-24,North,Chandigarh,Consumer,Furniture,Study Table,1.0,9349.89,0.1,Debit Card
+ORD10583,2024-02-24,South,Hyderabad,Consumer,Clothing,Jeans,10.0,1625.93,0.0,UPI
+ORD10769,2024-02-24,South,Chennai,Consumer,Clothing,Saree,4.0,3831.03,0.1,Cash
+ORD10964,2024-02-24,North,Delhi,Consumer,Electronics,Headphones,10.0,2748.77,0.05,Cash
+ORD10240,2024-02-25,West,Pune,Small Business,Office Supplies,Pen Set,7.0,112.55,0.0,Credit Card
+ORD11040,2024-02-25,West,Pune,Consumer,Clothing,Jacket,2.0,3055.74,0.15,UPI
+ORD11107,2024-02-25,West,Mumbai,Corporate,Clothing,Jeans,5.0,1473.23,0.15,Net Banking
+ORD10098,2024-02-26,South,Chennai,Consumer,Office Supplies,Pen Set,4.0,131.28,0.0,UPI
+ORD10310,2024-02-26,East,Patna,Consumer,Electronics,Headphones,9.0,2448.18,0.1,UPI
+ORD10940,2024-02-26,West,Ahmedabad,Small Business,Electronics,Monitor,1.0,10703.95,0.05,Cash
+ORD10561,2024-02-27,East,Bhubaneswar,Consumer,Electronics,Laptop,2.0,55123.92,0.0,Debit Card
+ORD10128,2024-02-28,North,Lucknow,Consumer,Office Supplies,Printer Ink,9.0,1091.73,0.1,Debit Card
+ORD10231,2024-02-28,Central,Nagpur,Consumer,Office Supplies,Whiteboard,7.0,1667.54,0.15,Net Banking
+ORD10437,2024-02-28,North,Chandigarh,Small Business,Clothing,T-Shirt,1.0,614.58,0.0,UPI
+ORD10636,2024-02-28,South,Chennai,Corporate,Clothing,Jeans,2.0,1604.88,0.0,Cash
+ORD11041,2024-02-28,East,Bhubaneswar,Small Business,Office Supplies,Stapler,9.0,180.89,0.0,UPI
+ORD11153,2024-02-28,North,Lucknow,Consumer,Clothing,Jeans,10.0,1634.73,0.0,Cash
+ORD10155,2024-02-29,South,Chennai,Corporate,Office Supplies,Pen Set,3.0,125.04,0.15,UPI
+ORD10217,2024-02-29,North,Delhi,Consumer,Clothing,T-Shirt,3.0,633.87,0.15,Cash
+ORD10290,2024-02-29,North,Lucknow,Consumer,Office Supplies,Whiteboard,2.0,1491.71,0.1,UPI
+ORD10350,2024-02-29,Central,Bhopal,Consumer,Electronics,Laptop,3.0,49697.61,0.1,Credit Card
+ORD10703,2024-03-01,North,Lucknow,Consumer,Clothing,T-Shirt,6.0,650.68,0.0,Debit Card
+ORD10791,2024-03-01,South,Bengaluru,Corporate,Electronics,Smartphone,1.0,18731.47,0.15,Credit Card
+ORD11058,2024-03-01,South,Chennai,Consumer,Electronics,Headphones,9.0,2624.16,0.1,Net Banking
+ORD10352,2024-03-03,South,Bengaluru,Consumer,Clothing,Jacket,3.0,2954.47,0.0,Credit Card
+ORD10454,2024-03-03,Central,Bhopal,Corporate,Clothing,Jacket,9.0,3001.44,0.0,Credit Card
+ORD10456,2024-03-03,North,Delhi,Consumer,Office Supplies,Whiteboard,6.0,1538.28,0.1,Credit Card
+ORD11180,2024-03-03,South,Hyderabad,Consumer,Office Supplies,Whiteboard,4.0,1664.85,0.0,Debit Card
+ORD10115,2024-03-04,South,Hyderabad,Corporate,Office Supplies,Printer Ink,3.0,1219.68,0.05,Debit Card
+ORD10282,2024-03-04,west,Mumbai,Consumer,Electronics,Smartwatch,1.0,6988.47,0.0,Net Banking
+ORD10419,2024-03-04,South,Bengaluru,Consumer,Office Supplies,Printer Ink,6.0,1132.36,0.1,UPI
+ORD10523,2024-03-04,North,Chandigarh,Consumer,Office Supplies,Whiteboard,7.0,1606.2,0.1,Credit Card
+ORD10943,2024-03-04,South,Hyderabad,Corporate,Clothing,Saree,1.0,3605.44,0.1,UPI
+ORD10970,2024-03-04,Central,Bhopal,Consumer,Office Supplies,Whiteboard,2.0,1752.87,0.0,Debit Card
+ORD11097,2024-03-04,South,Chennai,Consumer,Clothing,Jacket,9.0,2861.38,0.0,UPI
+ORD10849,2024-03-05,West,Ahmedabad,Corporate,Office Supplies,Pen Set,5.0,108.21,0.05,UPI
+ORD10927,2024-03-05,East,Patna,Consumer,Electronics,Smartwatch,1.0,6868.67,0.1,UPI
+ORD10196,2024-03-06,South,Chennai,Consumer,Furniture,Bookshelf,3.0,5586.93,0.05,Net Banking
+ORD10213,2024-03-06,West,Mumbai,Consumer,Furniture,Sofa,1.0,33017.63,0.0,UPI
+ORD10889,2024-03-06,East,Bhubaneswar,Small Business,Furniture,Study Table,3.0,9065.41,0.0,Debit Card
+ORD10994,2024-03-06,West,Ahmedabad,,Office Supplies,Notebook Pack,7.0,258.11,0.05,Debit Card
+ORD11124,2024-03-06,West,Mumbai,Consumer,Office Supplies,Notebook Pack,4.0,256.77,0.1,UPI
+ORD10482,2024-03-08,North,Lucknow,Small Business,Furniture,Sofa,2.0,34456.56,0.15,UPI
+ORD10536,2024-03-08,West,Mumbai,Consumer,Electronics,Smartwatch,3.0,6001.59,0.15,UPI
+ORD10855,2024-03-08,West,Pune,Corporate,Furniture,Office Chair,2.0,7850.28,0.05,UPI
+ORD10936,2024-03-08,East,Bhubaneswar,Consumer,Electronics,Monitor,2.0,11453.97,0.05,UPI
+ORD10968,2024-03-09,South,Hyderabad,Consumer,Furniture,Office Chair,1.0,8014.88,0.1,UPI
+ORD11196,2024-03-09,South,Bengaluru,Consumer,Furniture,Sofa,1.0,33824.89,0.1,Net Banking
+ORD10084,2024-03-10,West,Pune,Consumer,Furniture,Bookshelf,3.0,6047.43,0.0,Credit Card
+ORD10195,2024-03-10,North,Delhi,Consumer,Electronics,Smartphone,3.0,16886.62,0.1,UPI
+ORD10376,2024-03-10,South,Hyderabad,Consumer,Clothing,Jacket,3.0,,0.0,UPI
+ORD10778,2024-03-10,East,Bhubaneswar,Small Business,Office Supplies,Pen Set,7.0,114.91,0.15,UPI
+ORD11047,2024-03-10,South,Hyderabad,Small Business,Office Supplies,Notebook Pack,1.0,259.42,0.0,Debit Card
+ORD11184,2024-03-10,East,Patna,Corporate,Electronics,Smartwatch,3.0,6128.78,0.15,UPI
+ORD10091,2024-03-11,Central,Bhopal,Corporate,Electronics,Headphones,10.0,2711.65,0.05,UPI
+ORD10851,2024-03-11,North,Lucknow,Consumer,Office Supplies,Whiteboard,2.0,1558.64,0.15,UPI
+ORD11110,2024-03-11,South,Chennai,Consumer,Electronics,Monitor,3.0,11376.87,0.15,Net Banking
+ORD11197,2024-03-11,East,Kolkata,Small Business,Office Supplies,Pen Set,5.0,118.91,0.2,Cash
+ORD10663,2024-03-12,East,Kolkata,Consumer,Furniture,Study Table,2.0,8507.58,0.0,Debit Card
+ORD10885,2024-03-13,South,Bengaluru,Consumer,Office Supplies,Whiteboard,8.0,1640.93,0.15,Net Banking
+ORD10980,2024-03-13,West,Pune,Small Business,Electronics,Smartphone,1.0,17612.31,0.0,Debit Card
+ORD11016,2024-03-13,East,Patna,Consumer,Office Supplies,Pen Set,6.0,113.9,0.15,Debit Card
+ORD10261,2024-03-14,Central,Bhopal,Consumer,Electronics,Monitor,2.0,10667.81,0.0,UPI
+ORD10516,2024-03-14,South,Bengaluru,Corporate,Office Supplies,Notebook Pack,7.0,264.39,0.15,UPI
+ORD10925,2024-03-14,North,Delhi,Consumer,Electronics,Smartwatch,3.0,6245.58,0.1,Credit Card
+ORD11100,2024-03-14,West,Ahmedabad,Consumer,Furniture,Bookshelf,2.0,5721.83,0.05,UPI
+ORD10444,2024-03-15,West,Ahmedabad,Corporate,Clothing,T-Shirt,10.0,593.17,0.0,Credit Card
+ORD10552,2024-03-16,North,Chandigarh,Small Business,Electronics,Headphones,9.0,2621.92,0.2,Cash
+ORD10716,2024-03-16,South,Bengaluru,Consumer,Office Supplies,Stapler,7.0,188.63,0.1,UPI
+ORD10089,2024-03-17,North,Chandigarh,Consumer,Electronics,Laptop,3.0,50683.19,0.05,UPI
+ORD10266,2024-03-17,North,Chandigarh,Small Business,Office Supplies,Printer Ink,6.0,1144.98,0.0,Debit Card
+ORD10332,2024-03-17,West,Mumbai,Consumer,Clothing,Saree,2.0,3807.8,0.0,Cash
+ORD10375,2024-03-17,North,Delhi,Consumer,Clothing,Jacket,2.0,2774.67,0.05,Cash
+ORD10436,2024-03-17,South,Chennai,Consumer,Electronics,Smartwatch,1.0,6471.08,0.15,UPI
+ORD10899,2024-03-17,West,Mumbai,Corporate,Office Supplies,Whiteboard,7.0,1688.38,0.0,Cash
+ORD10899,2024-03-17,West,Mumbai,Corporate,Office Supplies,Whiteboard,7.0,1688.38,0.0,Cash
+ORD10026,2024-03-18,West,Ahmedabad,Consumer,Furniture,Study Table,1.0,8955.55,0.1,UPI
+ORD10036,2024-03-18,South,Chennai,Small Business,Office Supplies,Whiteboard,9.0,1583.44,0.0,UPI
+ORD10737,2024-03-19,North,Chandigarh,Small Business,Furniture,Office Chair,2.0,6884.28,0.0,Cash
+ORD10442,2024-03-22,North,Chandigarh,Consumer,Office Supplies,Pen Set,6.0,123.79,0.0,Debit Card
+ORD10538,2024-03-23,South,Chennai,Consumer,Electronics,Smartwatch,3.0,5986.24,0.05,UPI
+ORD10954,2024-03-23,South,Hyderabad,Consumer,Furniture,Office Chair,2.0,8205.17,0.0,Credit Card
+ORD11154,2024-03-23,North,Chandigarh,Small Business,Office Supplies,Notebook Pack,4.0,240.1,0.1,Cash
+ORD10029,2024-03-24,South,Bengaluru,Consumer,Office Supplies,Stapler,5.0,172.07,0.1,Debit Card
+ORD10175,2024-03-24,West,Ahmedabad,Corporate,Furniture,Sofa,2.0,34567.07,0.0,Debit Card
+ORD10587,2024-03-24,South,Chennai,Consumer,Clothing,T-Shirt,8.0,607.29,0.2,Cash
+ORD10767,2024-03-24,Central,Indore,Consumer,Clothing,Jacket,7.0,2601.4,0.1,Debit Card
+ORD10852,2024-03-24,South,Bengaluru,Consumer,Electronics,Headphones,6.0,2709.37,0.15,Credit Card
+ORD11185,2024-03-24,West,Pune,Small Business,Office Supplies,Stapler,2.0,177.14,0.1,UPI
+ORD10985,2024-03-25,East,Bhubaneswar,Consumer,Furniture,Office Chair,2.0,7669.28,0.15,Credit Card
+ORD11164,2024-03-25,Central,Indore,Corporate,Clothing,Jacket,6.0,2558.8,0.0,UPI
+ORD11165,2024-03-25,South,Hyderabad,Consumer,Clothing,Jacket,1.0,2994.38,0.05,Debit Card
+ORD10682,2024-03-26,Central,Indore,Small Business,Furniture,Bookshelf,1.0,4979.63,0.05,Net Banking
+ORD10798,2024-03-26,South,Chennai,Small Business,Furniture,Bookshelf,2.0,5989.68,0.1,UPI
+ORD10808,2024-03-26,Central,Indore,Small Business,Furniture,Bookshelf,2.0,5935.8,0.2,Debit Card
+ORD10051,2024-03-27,East,Bhubaneswar,Consumer,Clothing,T-Shirt,4.0,610.1,0.2,Credit Card
+ORD10112,2024-03-27,West,Ahmedabad,Consumer,Clothing,T-Shirt,5.0,Rs.637.67,0.1,Net Banking
+ORD10272,2024-03-27,East,Patna,Consumer,Office Supplies,Notebook Pack,,235.18,0.0,Net Banking
+ORD10469,2024-03-27,North,Delhi,Small Business,Office Supplies,Printer Ink,2.0,1100.64,0.05,Credit Card
+ORD10071,2024-03-28,East,Bhubaneswar,Corporate,Electronics,Laptop,2.0,47519.04,0.0,UPI
+ORD10539,2024-03-28,East,Bhubaneswar,Consumer,Office Supplies,Whiteboard,3.0,1718.02,0.05,Debit Card
+ORD10762,2024-03-28,South,Bengaluru,Corporate,Electronics,Laptop,3.0,56179.72,0.0,Credit Card
+ORD11179,2024-03-28,East,Kolkata,Consumer,Office Supplies,Notebook Pack,1.0,254.22,0.0,Net Banking
+ORD10131,2024-03-29,West,Mumbai,Corporate,Clothing,Saree,6.0,3555.77,0.0,Cash
+ORD10462,2024-03-29, West,Ahmedabad,Corporate,Electronics,Headphones,2.0,2428.91,0.1,Debit Card
+ORD10589,2024-03-29,East,Patna,Consumer,Clothing,Jeans,10.0,1411.33,0.05,Debit Card
+ORD10898,2024-03-29,East,Kolkata,Consumer,Clothing,T-Shirt,1.0,581.95,0.2,UPI
+ORD10268,2024-03-30,West,Mumbai,Corporate,Electronics,Smartphone,3.0,18513.81,0.1,Net Banking
+ORD10553,2024-03-30,North,Lucknow,Small Business,Clothing,Saree,8.0,3759.76,0.0,UPI
+ORD10199,2024-03-31,East,Patna,Consumer,Electronics,Smartwatch,1.0,5933.16,0.0,UPI
+ORD10870,2024-03-31,Central,Indore,Corporate,Electronics,Headphones,1.0,2726.1,0.15,Credit Card
+ORD11004,2024-03-31,North,Delhi,Consumer,Furniture,Study Table,3.0,9085.04,0.1,Debit Card
+ORD11111,2024-03-31,North,Delhi,Consumer,Clothing,T-Shirt,3.0,647.01,0.0,Debit Card
+ORD10909,2024-04-01,West,Pune,Consumer,Office Supplies,Stapler,4.0,191.85,0.0,UPI
+ORD10372,2024-04-02,West,Mumbai,Consumer,Electronics,Monitor,1.0,10341.47,0.0,UPI
+ORD10488,2024-04-02,South,Chennai,Corporate,Electronics,Laptop,3.0,55229.83,0.0,Credit Card
+ORD10416,2024-04-03,East,Bhubaneswar,Small Business,Furniture,Office Chair,2.0,7062.42,0.15,Net Banking
+ORD10557,2024-04-03,West,Ahmedabad,Corporate,Electronics,Smartphone,3.0,16337.61,0.05,Cash
+ORD10953,2024-04-04,East,Patna,Consumer,Office Supplies,Stapler,4.0,181.49,0.0,Credit Card
+ORD11091,2024-04-04,West,Mumbai,Consumer,Electronics,Headphones,5.0,2617.75,0.0,UPI
+ORD10658,2024-04-05,South,Chennai,Small Business,Electronics,Smartphone,1.0,18490.22,0.2,Debit Card
+ORD10669,2024-04-05,South,Hyderabad,Consumer,Electronics,Smartwatch,2.0,6622.94,0.1,Credit Card
+ORD10753,2024-04-06,Central,Bhopal,Consumer,Furniture,Study Table,1.0,9637.63,0.15,UPI
+ORD10074,2024-04-07,North,Lucknow,Consumer,Office Supplies,Notebook Pack,9.0,258.26,0.1,Credit Card
+ORD10243,2024-04-07,South,Chennai,Consumer,Electronics,Monitor,3.0,10362.42,0.0,UPI
+ORD10514,2024-04-07,West,Ahmedabad,Consumer,Clothing,Saree,7.0,3375.78,0.15,UPI
+ORD10781,2024-04-07,West,Pune,Consumer,Electronics,Laptop,3.0,47716.95,0.1,UPI
+ORD10897,2024-04-07,South,Chennai,Consumer,Clothing,Jeans,9.0,1627.1,0.1,Debit Card
+ORD10267,2024-04-08,South,Chennai,Corporate,Furniture,Bookshelf,1.0,5467.2,0.05,UPI
+ORD10661,2024-04-08,South,Hyderabad,Consumer,Electronics,Smartphone,1.0,16604.44,0.15,UPI
+ORD10893,2024-04-08,South,Bengaluru,Consumer,Office Supplies,Pen Set,4.0,120.41,0.1,Credit Card
+ORD10902,2024-04-08,North,Chandigarh,Consumer,Electronics,Headphones,3.0,2524.75,0.0,Credit Card
+ORD10407,2024-04-09,East,Bhubaneswar,Consumer,Electronics,Monitor,2.0,11401.48,0.0,UPI
+ORD10700,2024-04-09,East,Bhubaneswar,Consumer,Clothing,T-Shirt,,642.7,0.2,UPI
+ORD11199,2024-04-09,Central,Bhopal,Consumer,Office Supplies,Pen Set,4.0,119.81,0.0,Net Banking
+ORD10190,2024-04-11,South,Hyderabad,Small Business,Electronics,Monitor,2.0,10660.18,0.15,Credit Card
+ORD10427,2024-04-11,East,Patna,Consumer,Electronics,Smartwatch,3.0,6069.2,0.0,Net Banking
+ORD10654,2024-04-11,SOUTH,Chennai,Consumer,Clothing,Jeans,8.0,1507.89,0.2,Cash
+ORD10691,2024-04-11,North,Chandigarh,Consumer,Office Supplies,Whiteboard,3.0,1678.62,0.0,Credit Card
+ORD10701,2024-04-11,East,Bhubaneswar,Corporate,Office Supplies,Stapler,1.0,190.73,0.05,UPI
+ORD10146,2024-04-12,Central,Bhopal,Consumer,Electronics,Headphones,10.0,2533.91,0.1,Credit Card
+ORD10192,2024-04-12,East,Kolkata,Consumer,Electronics,Laptop,1.0,54039.61,0.0,UPI
+ORD10254,2024-04-12,Central,Bhopal,Consumer,Office Supplies,Whiteboard,6.0,1493.53,0.2,Debit Card
+ORD10283,2024-04-12,Central ,Indore,Consumer,Electronics,Smartwatch,1.0,6621.34,0.2,UPI
+ORD10475,2024-04-12,Central,Bhopal,Corporate,Furniture,Bookshelf,3.0,5437.21,0.05,UPI
+ORD10828,2024-04-12,East,Bhubaneswar,Consumer,Clothing,T-Shirt,9.0,638.91,0.0,Credit Card
+ORD11093,2024-04-12,South,Bengaluru,Consumer,Office Supplies,Whiteboard,3.0,1727.22,0.0,UPI
+ORD10076,2024-04-13,West,Mumbai,Consumer,Office Supplies,Stapler,2.0,186.98,0.15,UPI
+ORD10562,2024-04-13,North,Lucknow,Consumer,Electronics,Laptop,2.0,53112.51,0.2,UPI
+ORD10820,2024-04-13,Central,Bhopal,Small Business,Furniture,Office Chair,2.0,7090.63,0.05,Credit Card
+ORD10330,2024-04-14,South,Bengaluru,Corporate,Clothing,Jeans,1.0,1535.9,0.2,Cash
+ORD10445,2024-04-14,South,Bengaluru,Consumer,Electronics,Laptop,2.0,51575.44,0.0,Net Banking
+ORD11053,2024-04-14,East,Patna,Corporate,Furniture,Sofa,1.0,31222.22,0.0,UPI
+ORD10016,2024-04-15,North,Delhi,Consumer,Office Supplies,Notebook Pack,8.0,254.97,0.2,UPI
+ORD10615,2024-04-15,South,Hyderabad,Small Business,Office Supplies,Printer Ink,1.0,1299.56,0.05,Cash
+ORD11050,2024-04-15,South,Bengaluru,Consumer,Furniture,Study Table,1.0,9737.14,0.05,Credit Card
+ORD10077,2024-04-16,North,Delhi,Consumer,Office Supplies,Notebook Pack,3.0,274.36,0.1,Credit Card
+ORD10644,2024-04-16,South,Chennai,Corporate,Furniture,Study Table,1.0,8595.24,0.1,Cash
+ORD10941,2024-04-17,South,Hyderabad,Consumer,Office Supplies,Pen Set,2.0,128.97,0.05,UPI
+ORD10941,2024-04-17,South,Hyderabad,Consumer,Office Supplies,Pen Set,2.0,128.97,0.05,UPI
+ORD10319,2024-04-18,East,Bhubaneswar,Consumer,Clothing,Jeans,5.0,1359.83,0.1,UPI
+ORD10398,2024-04-18,North,Chandigarh,Consumer,Electronics,Monitor,1.0,10243.22,0.15,UPI
+ORD10108,2024-04-19,Central,Nagpur,Corporate,Clothing,Saree,10.0,3309.84,0.2,Credit Card
+ORD10596,2024-04-19,West,Ahmedabad,Consumer,Clothing,T-Shirt,8.0,591.98,0.0,UPI
+ORD10771,2024-04-19,South,Chennai,Corporate,Electronics,Headphones,3.0,2373.66,0.0,UPI
+ORD10931,2024-04-19,West,Pune,Consumer,Office Supplies,Stapler,1.0,162.25,0.05,Debit Card
+ORD10048,2024-04-20,South,Hyderabad,Small Business,Furniture,Sofa,2.0,34428.24,0.0,Credit Card
+ORD10163,2024-04-21,North,Delhi,Consumer,Office Supplies,Notebook Pack,3.0,243.99,0.1,Debit Card
+ORD11119,2024-04-21,South,Bengaluru,Consumer,Office Supplies,Pen Set,,121.55,0.15,Credit Card
+ORD11173,2024-04-21,South,Bengaluru,Corporate,Clothing,Saree,10.0,3279.7,0.0,Debit Card
+ORD10173,2024-04-22,East,Kolkata,Consumer,Office Supplies,Stapler,8.0,167.74,0.0,UPI
+ORD10309,2024-04-22,South,Chennai,Consumer,Office Supplies,Stapler,5.0,162.23,0.0,UPI
+ORD10693,2024-04-22,North,Chandigarh,Consumer,Electronics,Smartphone,3.0,18258.85,0.0,Debit Card
+ORD10705,2024-04-22,South,Bengaluru,Small Business,Office Supplies,Stapler,4.0,190.66,0.0,Debit Card
+ORD10751,2024-04-22,Central,Nagpur,Consumer,Office Supplies,Printer Ink,5.0,1314.27,0.0,UPI
+ORD11000,2024-04-22,South,Hyderabad,Consumer,Office Supplies,Printer Ink,3.0,1210.25,0.05,UPI
+ORD10103,2024-04-23,North,Delhi,Consumer,Electronics,Monitor,2.0,10328.18,0.05,UPI
+ORD10206,2024-04-23, West,Pune,Consumer,Office Supplies,Printer Ink,2.0,1185.85,0.15,Cash
+ORD10946,2024-04-23,Central,Nagpur,Consumer,Office Supplies,Pen Set,4.0,109.07,0.0,UPI
+ORD11094,2024-04-23,South,Hyderabad,Corporate,Office Supplies,Stapler,4.0,188.8,0.0,UPI
+ORD10157,2024-04-24,West,Ahmedabad,Corporate,Furniture,Sofa,3.0,32313.31,0.05,UPI
+ORD10823,2024-04-24,North,Delhi,Consumer,Clothing,Jeans,1.0,1363.38,0.0,Credit Card
+ORD10926,2024-04-24,West,Ahmedabad,Consumer,Clothing,Saree,7.0,3167.27,0.05,UPI
+ORD11081,2024-04-24,North,Chandigarh,Corporate,Office Supplies,Printer Ink,8.0,1313.21,0.05,UPI
+ORD10171,2024-04-25,South,Hyderabad,Corporate,Clothing,T-Shirt,1.0,563.45,0.1,Debit Card
+ORD10284,2024-04-25,South,Bengaluru,Consumer,Electronics,Laptop,3.0,49648.02,0.0,Credit Card
+ORD10348,2024-04-25,West,Mumbai,Consumer,Office Supplies,Printer Ink,4.0,1115.75,0.05,Cash
+ORD10727,2024-04-25,South,Hyderabad,Consumer,Office Supplies,Whiteboard,8.0,1686.43,0.15,UPI
+ORD11055,2024-04-25,North,Lucknow,Consumer,Electronics,Headphones,8.0,2712.93,0.05,Cash
+ORD10039,2024-04-26, South,Hyderabad,Consumer,Office Supplies,Pen Set,1.0,113.13,0.0,Credit Card
+ORD10255,2024-04-26,West,Ahmedabad,Consumer,Electronics,Headphones,1.0,2344.48,0.05,Debit Card
+ORD10756,2024-04-26,North,Delhi,Corporate,Furniture,Office Chair,1.0,8020.4,0.0,Credit Card
+ORD10830,2024-04-26,South,Hyderabad,Consumer,Electronics,Laptop,3.0,47764.32,0.05,Credit Card
+ORD11063,2024-04-27,North,Lucknow,Corporate,Office Supplies,Stapler,1.0,163.47,0.2,UPI
+ORD10225,2024-04-28,Central,Bhopal,Consumer,Clothing,Saree,10.0,3678.76,0.0,Debit Card
+ORD10313,2024-04-29,West,Pune,Consumer,Clothing,Jeans,7.0,1592.05,0.0,Credit Card
+ORD10910,2024-04-29,South,Hyderabad,Corporate,Electronics,Monitor,2.0,10123.55,0.0,UPI
+ORD10952,2024-04-29,South,Bengaluru,Consumer,Electronics,Monitor,1.0,9954.04,0.0,Cash
+ORD10556,2024-04-30,South,Hyderabad,Consumer,Furniture,Bookshelf,1.0,5242.78,0.05,Credit Card
+ORD10971,2024-04-30,North,Chandigarh,Consumer,Clothing,Saree,8.0,3692.55,0.0,Cash
+ORD10484,2024-05-02,Central,Bhopal,Consumer,Furniture,Office Chair,1.0,7132.35,0.0,UPI
+ORD11136,2024-05-03,South,Hyderabad,Small Business,Electronics,Headphones,5.0,2466.89,0.0,Net Banking
+ORD10323,2024-05-04,Central,Indore,Corporate,Clothing,Jeans,5.0,1616.3,0.15,Credit Card
+ORD10263,2024-05-05,North,Delhi,Corporate,Furniture,Office Chair,1.0,7017.31,0.0,Debit Card
+ORD10702,2024-05-05,East,Patna,Corporate,Electronics,Laptop,2.0,52471.5,0.1,UPI
+ORD10033,2024-05-06,North,Lucknow,Consumer,Office Supplies,Stapler,8.0,167.28,0.2,Credit Card
+ORD10134,2024-05-06,East,Patna,Consumer,Electronics,Smartwatch,2.0,6414.99,0.2,Debit Card
+ORD10526,2024-05-06,South,Bengaluru,Corporate,Electronics,Smartphone,2.0,17676.18,0.1,Debit Card
+ORD10593,2024-05-06,East,Kolkata,Consumer,Electronics,Headphones,1.0,2468.42,0.05,Debit Card
+ORD10796,2024-05-06,North,Delhi,Corporate,Furniture,Sofa,1.0,30203.81,0.1,Credit Card
+ORD10044,2024-05-07,North,Lucknow,Consumer,Office Supplies,Stapler,10.0,195.43,0.05,UPI
+ORD10373,2024-05-07,South,Chennai,Corporate,Clothing,Saree,8.0,3300.55,0.05,Cash
+ORD10618,2024-05-07,North,Lucknow,Consumer,Electronics,Laptop,2.0,57194.69,0.0,Credit Card
+ORD10752,2024-05-07,North,Lucknow,Consumer,Electronics,Smartphone,3.0,18616.61,0.0,Debit Card
+ORD11076,2024-05-07,West,Mumbai,Consumer,Electronics,Monitor,1.0,10586.01,0.2,UPI
+ORD10694,2024-05-08,East,Kolkata,Corporate,Furniture,Study Table,1.0,9824.26,0.05,Credit Card
+ORD10878,2024-05-08,East,Bhubaneswar,Corporate,Clothing,T-Shirt,2.0,606.06,0.0,UPI
+ORD10919,2024-05-08,West,Pune,Consumer,Electronics,Monitor,1.0,11990.75,0.05,Credit Card
+ORD10989,2024-05-09,South,Hyderabad,Corporate,Office Supplies,Stapler,1.0,180.46,0.0,Cash
+ORD11037,2024-05-10,East,Patna,Consumer,Electronics,Monitor,2.0,10451.54,0.2,UPI
+ORD10169,2024-05-12,West,Ahmedabad,Small Business,Furniture,Sofa,2.0,30113.66,0.05,Cash
+ORD10686,2024-05-12,Central,Bhopal,Small Business,Furniture,Study Table,1.0,9018.02,0.0,UPI
+ORD10731,2024-05-12,North,Lucknow,Small Business,Electronics,Smartphone,1.0,16251.17,0.1,Cash
+ORD11065,2024-05-12,South,Hyderabad,Consumer,Electronics,Smartphone,2.0,18962.84,0.15,Cash
+ORD10095,2024-05-13,North,Lucknow,Small Business,Furniture,Bookshelf,1.0,5638.78,0.0,Net Banking
+ORD10200,2024-05-13,North,Chandigarh,Corporate,Furniture,Sofa,3.0,33928.63,0.1,Credit Card
+ORD10515,2024-05-13,West,Mumbai,Corporate,Clothing,Jacket,5.0,2607.3,0.1,Net Banking
+ORD10788,2024-05-13,SOUTH,Bengaluru,Corporate,Clothing,Jacket,3.0,2962.55,0.0,UPI
+ORD10891,2024-05-13,North,Lucknow,Corporate,Office Supplies,Notebook Pack,4.0,253.56,0.0,Net Banking
+ORD10680,2024-05-14,West,Ahmedabad,Consumer,Clothing,Jacket,6.0,2816.0,0.15,Cash
+ORD10127,2024-05-15,North,Lucknow,Corporate,Electronics,Smartphone,2.0,19601.3,0.1,Net Banking
+ORD10316,2024-05-15,West,Ahmedabad,Corporate,Electronics,Smartwatch,1.0,6433.45,0.0,UPI
+ORD10369,2024-05-15,West,Ahmedabad,Consumer,Furniture,Study Table,2.0,8616.19,0.05,Credit Card
+ORD10580,2024-05-15,Central,Bhopal,Consumer,Office Supplies,Pen Set,9.0,Rs.113.42,0.0,Credit Card
+ORD10656,2024-05-15,Central,Nagpur,Corporate,Office Supplies,Pen Set,10.0,119.76,0.0,Credit Card
+ORD10738,2024-05-15,West,Pune,Corporate,Office Supplies,Whiteboard,2.0,1455.48,0.1,UPI
+ORD10315,2024-05-16,West,Ahmedabad,Corporate,Electronics,Laptop,1.0,48932.53,0.0,Debit Card
+ORD10476,2024-05-16,West,Pune,Corporate,Electronics,Laptop,3.0,48417.68,0.0,Cash
+ORD10314,2024-05-17,North,Delhi,Consumer,Office Supplies,Pen Set,6.0,128.06,0.0,UPI
+ORD10464,2024-05-19,West,Ahmedabad,Corporate,Office Supplies,Notebook Pack,7.0,Rs.235.19,0.15,Debit Card
+ORD10571,2024-05-19,Central,Bhopal,Corporate,Office Supplies,Whiteboard,2.0,1549.15,0.15,Credit Card
+ORD11015,2024-05-19,North,Chandigarh,Consumer,Office Supplies,Printer Ink,5.0,1205.17,0.1,UPI
+ORD10507,2024-05-20,East,Bhubaneswar,Consumer,Furniture,Sofa,1.0,32314.5,0.15,Credit Card
+ORD10517,2024-05-20,North,Chandigarh,Corporate,Clothing,Saree,3.0,3827.19,0.0,Debit Card
+ORD10747,2024-05-20,East,Kolkata,Corporate,Office Supplies,Stapler,4.0,181.63,0.1,Credit Card
+ORD11008,2024-05-20,North,Delhi,Corporate,Office Supplies,Pen Set,7.0,121.69,0.0,UPI
+ORD11102,2024-05-20, West,Mumbai,Corporate,Electronics,Smartphone,1.0,18714.46,0.15,Debit Card
+ORD11146,2024-05-20,North,Lucknow,Consumer,Clothing,T-Shirt,1.0,632.3,0.15,UPI
+ORD11146,2024-05-20,North,Lucknow,Consumer,Clothing,T-Shirt,1.0,632.3,0.15,UPI
+ORD10184,2024-05-21,North,Chandigarh,Small Business,Electronics,Headphones,10.0,2630.75,0.2,Debit Card
+ORD10530,2024-05-21,North,Delhi,Consumer,Electronics,Monitor,3.0,12088.7,0.15,UPI
+ORD10793,2024-05-21,North,Chandigarh,Consumer,Office Supplies,Notebook Pack,8.0,262.32,0.0,Credit Card
+ORD10975,2024-05-21,West,Mumbai,Small Business,Office Supplies,Printer Ink,3.0,1296.0,0.05,UPI
+ORD10068,2024-05-22,North,Lucknow,Consumer,Office Supplies,Pen Set,5.0,130.06,0.0,Credit Card
+ORD10374,2024-05-22,North,Delhi,Consumer,Electronics,Smartwatch,2.0,6981.12,0.15,Credit Card
+ORD10665,2024-05-22,South,Bengaluru,Consumer,Office Supplies,Printer Ink,3.0,1230.77,0.0,UPI
+ORD10569,2024-05-23,East,Patna,Corporate,Office Supplies,Whiteboard,8.0,1544.43,0.1,Debit Card
+ORD11046,2024-05-23,North,Delhi,Consumer,Electronics,Headphones,2.0,2554.1,0.0,UPI
+ORD11141,2024-05-23,North,Delhi,Corporate,Clothing,Jeans,7.0,1401.48,0.1,Net Banking
+ORD10022,2024-05-24,South,Hyderabad,Corporate,Office Supplies,Stapler,2.0,188.63,0.0,Cash
+ORD10757,2024-05-24,South,Hyderabad,Small Business,Clothing,T-Shirt,4.0,614.16,0.0,Cash
+ORD10097,2024-05-25,East,Kolkata,Consumer,Furniture,Sofa,3.0,28879.34,0.05,UPI
+ORD10147,2024-05-25,West,Mumbai,Corporate,Electronics,Headphones,3.0,2372.06,0.0,Net Banking
+ORD10401,2024-05-25,North,Lucknow,Corporate,Office Supplies,Printer Ink,3.0,1292.69,0.1,UPI
+ORD10499,2024-05-25,West,Pune,Consumer,Office Supplies,Notebook Pack,10.0,239.34,0.1,Credit Card
+ORD10588,2024-05-25,West,Pune,Corporate,Clothing,Saree,10.0,3843.72,0.0,Cash
+ORD10950,2024-05-25,South,Chennai,Consumer,Office Supplies,Whiteboard,7.0,1551.06,0.0,Debit Card
+ORD10987,2024-05-25,East,Kolkata,Consumer,Clothing,Jeans,8.0,1559.52,0.1,UPI
+ORD11080,2024-05-25,West,Pune,Corporate,Electronics,Smartwatch,1.0,6747.39,0.05,UPI
+ORD10221,2024-05-27,West,Ahmedabad,Consumer,Office Supplies,Stapler,3.0,188.99,0.1,Credit Card
+ORD11178,2024-05-27,East,Patna,Consumer,Electronics,Laptop,1.0,56577.4,0.15,UPI
+ORD11028,2024-05-28,South,Hyderabad,Corporate,Electronics,Smartwatch,3.0,6364.65,0.0,UPI
+ORD10494,2024-05-29,South,Hyderabad,Corporate,Clothing,Saree,4.0,3239.71,0.2,Cash
+ORD10802,2024-05-29,North,Lucknow,Consumer,Electronics,Smartphone,2.0,17300.39,0.0,UPI
+ORD10113,2024-05-30,South,Chennai,Consumer,Electronics,Headphones,4.0,2362.89,0.0,UPI
+ORD10277,2024-05-30,West,Mumbai,Consumer,Clothing,Saree,7.0,3532.91,0.05,Cash
+ORD10786,2024-05-30,South,Chennai,Corporate,Clothing,Saree,1.0,3243.06,0.05,UPI
+ORD10786,2024-05-30,South,Chennai,Corporate,Clothing,Saree,1.0,3243.06,0.05,UPI
+ORD11026,2024-05-31,North,Chandigarh,Consumer,Clothing,Saree,2.0,3754.44,0.05,Credit Card
+ORD10312,2024-06-01,East,Patna,Corporate,Office Supplies,Stapler,10.0,185.54,0.15,UPI
+ORD10481,2024-06-02,north,Chandigarh,Small Business,Electronics,Smartwatch,1.0,6122.48,0.05,UPI
+ORD11145,2024-06-02,West,Ahmedabad,Consumer,Clothing,T-Shirt,1.0,610.46,0.05,Net Banking
+ORD10072,2024-06-03,West,Ahmedabad,Small Business,Clothing,T-Shirt,1.0,542.85,0.0,UPI
+ORD10670,2024-06-03,South,Bengaluru,Small Business,Electronics,Smartphone,1.0,19483.69,0.0,UPI
+ORD10734,2024-06-03,West,Pune,Consumer,Electronics,Laptop,2.0,53645.21,0.15,Cash
+ORD10877,2024-06-03,South,Hyderabad,Small Business,Clothing,Saree,3.0,3351.63,0.05,UPI
+ORD10881,2024-06-03,Central,Indore,Small Business,Electronics,Laptop,2.0,48699.39,0.0,UPI
+ORD10634,2024-06-04,North,Chandigarh,Corporate,Electronics,Smartphone,1.0,19499.9,0.0,Net Banking
+ORD10887,2024-06-04,East,Kolkata,Consumer,Clothing,T-Shirt,5.0,583.43,0.05,Debit Card
+ORD11138,2024-06-04,East,Bhubaneswar,Small Business,Electronics,Smartwatch,2.0,7085.11,0.05,Cash
+ORD10119,2024-06-05,South,Bengaluru,Consumer,Office Supplies,Pen Set,6.0,119.24,0.0,Debit Card
+ORD10486,2024-06-05,East,Bhubaneswar,Consumer,Office Supplies,Whiteboard,4.0,1475.25,0.2,UPI
+ORD10533,2024-06-05,East,Bhubaneswar,Corporate,Electronics,Smartphone,1.0,16757.89,0.05,UPI
+ORD10687,2024-06-06,South,Bengaluru,Corporate,Electronics,Headphones,4.0,2441.41,0.0,Credit Card
+ORD10933,2024-06-08,West,Pune,Consumer,Electronics,Monitor,2.0,9939.18,0.2,UPI
+ORD11035,2024-06-08,East,Bhubaneswar,Consumer,Furniture,Sofa,2.0,34300.78,0.0,UPI
+ORD10471,2024-06-09,West,Mumbai,Corporate,Office Supplies,Notebook Pack,7.0,235.06,0.0,Debit Card
+ORD10660,2024-06-09,Central,Bhopal,Consumer,Clothing,Saree,4.0,3646.46,0.05,UPI
+ORD11125,2024-06-09,West,Ahmedabad,Consumer,Office Supplies,Pen Set,7.0,121.63,0.05,UPI
+ORD11192,2024-06-09,South,Hyderabad,Consumer,Office Supplies,Pen Set,3.0,109.59,0.1,Cash
+ORD10034,2024-06-10,West,Pune,Consumer,Furniture,Office Chair,2.0,8217.07,0.05,UPI
+ORD10250,2024-06-10,South,Hyderabad,Consumer,Office Supplies,Pen Set,7.0,109.46,0.0,Debit Card
+ORD11030,2024-06-10,Central,Indore,Corporate,Clothing,Jacket,6.0,2745.16,0.0,Debit Card
+ORD11006,2024-06-11,Central,Indore,Corporate,Clothing,Jacket,4.0,3050.25,0.15,UPI
+ORD10187,2024-06-12,South,Chennai,Corporate,Office Supplies,Pen Set,2.0,124.69,0.15,UPI
+ORD10379,2024-06-12,WEST,Mumbai,Corporate,Electronics,Headphones,8.0,2613.51,0.0,Credit Card
+ORD10124,2024-06-13,North,Delhi,Corporate,Clothing,Jacket,2.0,2948.29,0.0,UPI
+ORD10166,2024-06-13,East,Bhubaneswar,Consumer,Furniture,Office Chair,1.0,8074.21,0.0,Credit Card
+ORD10874,2024-06-13,West,Mumbai,Corporate,Clothing,Jacket,10.0,2555.52,0.1,UPI
+ORD10317,2024-06-14,South,Hyderabad,Small Business,Office Supplies,Notebook Pack,1.0,234.28,0.0,Debit Card
+ORD11187,2024-06-14,East,Patna,Consumer,Electronics,Smartphone,1.0,16385.67,0.2,UPI
+ORD10286,2024-06-15,North,Delhi,Consumer,Electronics,Smartwatch,1.0,6491.53,0.1,Credit Card
+ORD10739,2024-06-15,South,Chennai,Small Business,Electronics,Headphones,3.0,2407.08,0.1,Credit Card
+ORD10740,2024-06-15,West,Pune,Corporate,Clothing,Saree,,3607.19,0.05,UPI
+ORD10886,2024-06-15,East,Patna,Corporate,Electronics,Smartwatch,1.0,6658.25,0.0,UPI
+ORD10011,2024-06-16,South,Chennai,Corporate,Office Supplies,Stapler,6.0,180.2,0.05,UPI
+ORD10550,2024-06-16,south,Chennai,Consumer,Electronics,Headphones,6.0,2328.21,0.0,Debit Card
+ORD10844,2024-06-16,West,Mumbai,Corporate,Office Supplies,Whiteboard,3.0,1685.39,0.0,Credit Card
+ORD11096,2024-06-16,South,Bengaluru,Consumer,Clothing,Saree,2.0,3303.96,0.1,Debit Card
+ORD10288,2024-06-17,Central,Bhopal,Consumer,Furniture,Bookshelf,1.0,5305.93,0.0,UPI
+ORD10366,2024-06-17,South,Chennai,Small Business,Office Supplies,Pen Set,8.0,112.87,0.0,Credit Card
+ORD10859,2024-06-17,West,Pune,Consumer,Electronics,Smartphone,2.0,17718.96,0.0,Debit Card
+ORD11067,2024-06-17,North,Lucknow,Corporate,Clothing,Saree,4.0,3490.53,0.05,UPI
+ORD10276,2024-06-18,North,Chandigarh,Consumer,Electronics,Headphones,2.0,2655.15,0.1,UPI
+ORD10547,2024-06-18,West,Pune,Corporate,Electronics,Smartphone,3.0,18597.29,0.05,UPI
+ORD10978,2024-06-18,North,Lucknow,Consumer,Furniture,Sofa,3.0,34878.37,0.2,UPI
+ORD11112,2024-06-18,West,Pune,Consumer,Furniture,Sofa,1.0,33060.65,0.1,Credit Card
+ORD10094,2024-06-19,North,Lucknow,Consumer,Electronics,Smartphone,3.0,16725.0,0.0,UPI
+ORD10626,2024-06-19,North,Chandigarh,Small Business,Office Supplies,Whiteboard,3.0,1441.12,0.2,Credit Card
+ORD10944,2024-06-19,Central,Nagpur,Corporate,Clothing,Jeans,5.0,1566.85,0.05,Cash
+ORD10477,2024-06-20,West,Mumbai,Consumer,Electronics,Monitor,2.0,11718.63,0.05,UPI
+ORD10497,2024-06-20,East,Kolkata,Consumer,Clothing,Jacket,2.0,2751.68,0.05,UPI
+ORD11038,2024-06-20,Central,Nagpur,Consumer,Electronics,Laptop,1.0,52933.45,0.0,Debit Card
+ORD10232,2024-06-21,West,Pune,Corporate,Clothing,T-Shirt,5.0,640.46,0.0,UPI
+ORD10792,2024-06-21,South,Chennai,Corporate,Office Supplies,Printer Ink,2.0,,0.15,Credit Card
+ORD10833,2024-06-21,North,Delhi,Consumer,Clothing,Jeans,3.0,1557.0,0.05,Cash
+ORD10307,2024-06-22,West,Ahmedabad,Consumer,Office Supplies,Whiteboard,1.0,1564.96,0.0,Credit Card
+ORD10676,2024-06-23,West,Pune,Consumer,Furniture,Bookshelf,1.0,5996.34,0.05,Cash
+ORD10962,2024-06-23,North,Chandigarh,Corporate,Electronics,Smartphone,2.0,17371.33,0.15,Credit Card
+ORD10047,2024-06-24,West,Ahmedabad,Consumer,Clothing,Jacket,8.0,2574.81,0.05,Credit Card
+ORD10248,2024-06-24, South,Chennai,Corporate,Clothing,Jacket,7.0,2733.59,0.0,UPI
+ORD10522,2024-06-24,West,Pune,Corporate,Clothing,Saree,9.0,3474.12,0.15,UPI
+ORD10847,2024-06-24,South,Bengaluru,Corporate,Office Supplies,Stapler,8.0,195.33,0.05,UPI
+ORD11171,2024-06-24,North,Lucknow,Consumer,Office Supplies,Pen Set,2.0,120.4,0.15,UPI
+ORD10584,2024-06-25,West,Pune,Corporate,Electronics,Smartwatch,1.0,6765.76,0.05,UPI
+ORD11108,2024-06-25,North,Lucknow,Consumer,Electronics,Monitor,1.0,10833.57,0.05,Cash
+ORD10082,2024-06-26,North,Lucknow,Consumer,Office Supplies,Pen Set,1.0,129.61,0.1,Debit Card
+ORD10651,2024-06-26,South,Chennai,Corporate,Furniture,Bookshelf,,Rs.5372.56,0.0,Credit Card
+ORD10748,2024-06-26,West,Mumbai,Consumer,Office Supplies,Pen Set,4.0,108.47,0.0,Credit Card
+ORD10932,2024-06-26,Central,Nagpur,Consumer,Furniture,Bookshelf,2.0,5621.57,0.0,Net Banking
+ORD11070,2024-06-26,East,Patna,Consumer,Electronics,Headphones,,2670.23,0.0,UPI
+ORD10839,2024-06-27,North,Chandigarh,Corporate,Office Supplies,Pen Set,8.0,117.95,0.0,UPI
+ORD10385,2024-06-28,West,Mumbai,Corporate,Electronics,Laptop,2.0,53438.74,0.0,UPI
+ORD10220,2024-06-29,South,Chennai,Consumer,Clothing,Jeans,10.0,1629.63,0.05,Debit Card
+ORD10249,2024-06-29,East,Kolkata,Consumer,Furniture,Sofa,2.0,30716.23,0.0,Cash
+ORD10480,2024-06-30, West,Mumbai,Consumer,Electronics,Monitor,2.0,10112.58,0.1,Net Banking
+ORD10722,2024-06-30,North,Chandigarh,Small Business,Furniture,Sofa,3.0,33476.53,0.0,Credit Card
+ORD10010,2024-07-01,South,Bengaluru,Corporate,Furniture,Office Chair,3.0,8227.57,0.15,UPI
+ORD10551,2024-07-01,West,Pune,Corporate,Clothing,Saree,10.0,3682.05,0.0,UPI
+ORD11137,2024-07-01,North,Lucknow,Consumer,Office Supplies,Whiteboard,9.0,1523.66,0.0,Net Banking
+ORD10088,2024-07-02,East,Bhubaneswar,Consumer,Furniture,Bookshelf,2.0,5900.52,0.1,UPI
+ORD10311,2024-07-03,South,Chennai,Consumer,Office Supplies,Stapler,3.0,196.63,0.2,Cash
+ORD10509,2024-07-04,North,Lucknow,Consumer,Office Supplies,Notebook Pack,3.0,269.6,0.0,Cash
+ORD10546,2024-07-04,West,Mumbai,Small Business,Furniture,Study Table,1.0,9063.8,0.2,UPI
+ORD10884,2024-07-04,South,Bengaluru,Consumer,Electronics,Monitor,3.0,10443.44,0.05,Cash
+ORD11191,2024-07-04,West,Ahmedabad,Consumer,Electronics,Monitor,2.0,11574.64,0.0,UPI
+ORD10027,2024-07-05,West,Ahmedabad,Consumer,Clothing,Jacket,9.0,2769.98,0.1,Cash
+ORD10622,2024-07-05,North,Chandigarh,Small Business,Electronics,Laptop,2.0,55682.18,0.0,UPI
+ORD11127,2024-07-05,North,Delhi,Consumer,Office Supplies,Whiteboard,5.0,1647.1,0.05,UPI
+ORD10856,2024-07-06,West,Mumbai,Consumer,Office Supplies,Printer Ink,,1113.81,0.0,Net Banking
+ORD10959,2024-07-06,North,Lucknow,Consumer,Office Supplies,Whiteboard,8.0,1640.08,0.0,Net Banking
+ORD11159,2024-07-06,West,Mumbai,,Clothing,Jeans,7.0,1393.11,0.0,Debit Card
+ORD10062,2024-07-07,East,Patna,Consumer,Office Supplies,Stapler,8.0,192.33,0.15,Credit Card
+ORD10070,2024-07-07,South,Hyderabad,Small Business,Clothing,Jeans,2.0,1478.52,0.1,UPI
+ORD10111,2024-07-07,West,Ahmedabad,Corporate,Clothing,Jacket,9.0,2682.99,0.1,Debit Card
+ORD10624,2024-07-07,East,Bhubaneswar,Corporate,Clothing,Jeans,7.0,1509.74,0.1,Credit Card
+ORD11013,2024-07-07,Central,Indore,Corporate,Furniture,Sofa,,32153.19,0.0,Debit Card
+ORD10684,2024-07-08,North,Lucknow,Corporate,Electronics,Smartphone,1.0,16645.99,0.0,UPI
+ORD10710,2024-07-08,South ,Hyderabad,Corporate,Electronics,Smartwatch,1.0,6336.01,0.1,UPI
+ORD10141,2024-07-09,Central,Bhopal,Consumer,Office Supplies,Notebook Pack,1.0,247.89,0.0,UPI
+ORD10177,2024-07-09,North,Delhi,Consumer,Office Supplies,Pen Set,1.0,125.64,0.15,UPI
+ORD10306,2024-07-09,West,Mumbai,Consumer,Office Supplies,Notebook Pack,5.0,250.52,0.05,Credit Card
+ORD10904,2024-07-09,West,Pune,Consumer,Electronics,Smartwatch,1.0,6103.54,0.0,UPI
+ORD10907,2024-07-09,South,Bengaluru,Corporate,Furniture,Bookshelf,3.0,5813.46,0.0,UPI
+ORD11020,2024-07-09,South,Bengaluru,Consumer,Office Supplies,Printer Ink,2.0,1163.02,0.1,Credit Card
+ORD11149,2024-07-10,West,Pune,Consumer,Furniture,Sofa,3.0,30473.2,0.1,Credit Card
+ORD10126,2024-07-11,West,Ahmedabad,Corporate,Clothing,Jacket,7.0,2897.53,0.05,Net Banking
+ORD10237,2024-07-11,South,Chennai,Consumer,Electronics,Monitor,1.0,10215.03,0.0,Debit Card
+ORD10015,2024-07-12,North,Lucknow,Consumer,Clothing,Saree,6.0,3157.71,0.15,UPI
+ORD10041,2024-07-12,West,Pune,Consumer,Clothing,Jacket,6.0,2711.26,0.05,UPI
+ORD10090,2024-07-12,South,Bengaluru,Consumer,Clothing,Saree,4.0,3690.75,0.15,Credit Card
+ORD10359,2024-07-12,West,Ahmedabad,Consumer,Furniture,Office Chair,1.0,6823.0,0.2,UPI
+ORD10222,2024-07-13,East,Patna,Corporate,Electronics,Monitor,3.0,11242.05,0.0,Debit Card
+ORD10400,2024-07-13,West,Pune,Consumer,Clothing,Jeans,2.0,1376.02,0.2,Debit Card
+ORD10035,2024-07-14,Central,Indore,Consumer,Office Supplies,Printer Ink,6.0,1101.77,0.2,Net Banking
+ORD11089,2024-07-14,South,Chennai,Consumer,Electronics,Smartphone,1.0,17008.15,0.0,UPI
+ORD10107,2024-07-15,West,Pune,Small Business,Office Supplies,Stapler,2.0,171.76,0.0,Cash
+ORD10149,2024-07-15,South,Chennai,Corporate,Office Supplies,Whiteboard,10.0,1506.44,0.15,Credit Card
+ORD10560,2024-07-15,East,Kolkata,Consumer,Office Supplies,Whiteboard,4.0,1461.98,0.15,UPI
+ORD10576,2024-07-15,Central,Nagpur,Consumer,Office Supplies,Stapler,5.0,182.12,0.0,Debit Card
+ORD11010,2024-07-15,South,Hyderabad,Consumer,Electronics,Monitor,3.0,11280.57,0.0,UPI
+ORD10138,2024-07-16,East,Bhubaneswar,Consumer,Electronics,Headphones,1.0,2633.75,0.0,Credit Card
+ORD10558,2024-07-16,East,Kolkata,Small Business,Furniture,Study Table,1.0,8822.55,0.0,Credit Card
+ORD10729,2024-07-16,West,Mumbai,Consumer,Electronics,Headphones,10.0,2289.61,0.05,UPI
+ORD10977,2024-07-16,West,Mumbai,Consumer,Office Supplies,Notebook Pack,2.0,271.08,0.1,Cash
+ORD10945,2024-07-17, North,Lucknow,Consumer,Furniture,Office Chair,2.0,8126.42,0.15,UPI
+ORD11078,2024-07-17,Central,Nagpur,Consumer,Clothing,Jeans,9.0,1536.69,0.05,UPI
+ORD10002,2024-07-18,South,Bengaluru,Consumer,Electronics,Monitor,1.0,10870.12,0.1,Cash
+ORD10746,2024-07-18,West,Pune,Small Business,Electronics,Smartphone,2.0,18117.11,0.1,Cash
+ORD10573,2024-07-19,Central,Nagpur,Consumer,Furniture,Bookshelf,3.0,5358.65,0.0,Cash
+ORD10504,2024-07-20,South,Chennai,Consumer,Electronics,Monitor,3.0,10878.78,0.05,UPI
+ORD10592,2024-07-20,South,Chennai,Consumer,Furniture,Bookshelf,3.0,5070.89,0.05,Cash
+ORD10901,2024-07-20,South,Chennai,Consumer,Electronics,Smartphone,1.0,16327.18,0.05,UPI
+ORD10038,2024-07-21,North,Delhi,Corporate,Office Supplies,Printer Ink,3.0,1165.25,0.0,Credit Card
+ORD10322,2024-07-21,north,Delhi,Consumer,Electronics,Headphones,6.0,2673.09,0.0,Credit Card
+ORD11177,2024-07-21,North,Delhi,Small Business,Electronics,Laptop,1.0,56552.4,0.05,UPI
+ORD10399,2024-07-22,South,Hyderabad,Corporate,Furniture,Study Table,1.0,8348.22,0.0,UPI
+ORD10581,2024-07-23,West,Mumbai,Corporate,Office Supplies,Pen Set,1.0,123.36,0.0,UPI
+ORD11073,2024-07-23,South,Bengaluru,Consumer,Furniture,Office Chair,1.0,7471.36,0.1,UPI
+ORD11090,2024-07-23,North,Delhi,Consumer,Clothing,Jacket,2.0,2734.56,0.15,Credit Card
+ORD10783,2024-07-24,South,Bengaluru,Corporate,Office Supplies,Pen Set,7.0,128.32,0.0,Credit Card
+ORD10966,2024-07-24,East,Patna,Consumer,Office Supplies,Stapler,7.0,178.71,0.0,UPI
+ORD10145,2024-07-25,East,Bhubaneswar,Consumer,Furniture,Study Table,1.0,9776.24,0.2,Debit Card
+ORD10203,2024-07-25,North,Chandigarh,Consumer,Office Supplies,Stapler,2.0,190.64,0.1,UPI
+ORD10458,2024-07-25,East,Patna,Corporate,Office Supplies,Whiteboard,8.0,1547.34,0.0,Net Banking
+ORD10601,2024-07-25,Central,Nagpur,Corporate,Electronics,Smartphone,3.0,18453.68,0.0,Debit Card
+ORD10754,2024-07-25,South,Bengaluru,Small Business,Electronics,Monitor,3.0,9980.6,0.1,Net Banking
+ORD10996,2024-07-25,Central,Nagpur,Consumer,Clothing,Saree,6.0,3431.16,0.1,Net Banking
+ORD10384,2024-07-26,South,Hyderabad,Small Business,Furniture,Study Table,3.0,8717.87,0.0,Debit Card
+ORD10610,2024-07-26,South,Bengaluru,Small Business,Office Supplies,Printer Ink,8.0,1143.99,0.05,UPI
+ORD10678,2024-07-26,East,Patna,Consumer,Office Supplies,Pen Set,1.0,108.12,0.0,UPI
+ORD10057,2024-07-27,North,Chandigarh,Consumer,Office Supplies,Pen Set,5.0,129.03,0.0,Credit Card
+ORD10278,2024-07-28,South,Bengaluru,Corporate,Furniture,Office Chair,1.0,7528.05,0.05,Credit Card
+ORD10378,2024-07-28,West,Mumbai,Consumer,Office Supplies,Whiteboard,10.0,1551.32,0.0,Cash
+ORD10438,2024-07-28,West,Pune,Corporate,Clothing,Saree,5.0,3776.0,0.0,UPI
+ORD10709,2024-07-28,East,Patna,Consumer,Office Supplies,Notebook Pack,8.0,230.25,0.0,Net Banking
+ORD10760,2024-07-28,South,Bengaluru,Consumer,Clothing,Jeans,8.0,1572.67,0.1,Credit Card
+ORD10093,2024-07-29,North,Lucknow,,Clothing,Saree,8.0,3522.69,0.05,UPI
+ORD10396,2024-07-29,South,Chennai,Consumer,Office Supplies,Printer Ink,8.0,1178.71,0.05,Credit Card
+ORD10487,2024-07-29,North,Lucknow,Consumer,Furniture,Bookshelf,1.0,5224.51,0.1,Net Banking
+ORD10984,2024-07-29,West,Mumbai,Consumer,Office Supplies,Whiteboard,6.0,1606.57,0.0,Credit Card
+ORD11002,2024-07-29,East,Bhubaneswar,Consumer,Clothing,Jeans,9.0,1357.58,0.0,Net Banking
+ORD11039,2024-07-29,East,Kolkata,Corporate,Furniture,Bookshelf,3.0,5583.82,0.15,Debit Card
+ORD11175,2024-07-30,South,Bengaluru,Corporate,Electronics,Headphones,8.0,2417.64,0.05,Credit Card
+ORD10142,2024-07-31,South ,Hyderabad,Consumer,Furniture,Study Table,2.0,8101.78,0.0,Credit Card
+ORD10253,2024-07-31,South,Bengaluru,Corporate,Office Supplies,Pen Set,7.0,131.09,0.1,Net Banking
+ORD10355,2024-07-31,South,Bengaluru,Consumer,Electronics,Headphones,2.0,2628.15,0.05,Cash
+ORD10472,2024-07-31,South,Chennai,Corporate,Electronics,Smartwatch,1.0,6913.55,0.0,UPI
+ORD10228,2024-08-01,West,Mumbai,Small Business,Electronics,Smartwatch,2.0,6050.78,0.0,Credit Card
+ORD10328,2024-08-02,East,Bhubaneswar,,Office Supplies,Printer Ink,7.0,1193.23,0.1,UPI
+ORD10582,2024-08-02,North,Delhi,Corporate,Clothing,Jacket,10.0,2865.1,0.0,UPI
+ORD10840,2024-08-02,Central ,Indore,Small Business,Electronics,Headphones,2.0,2599.05,0.0,Debit Card
+ORD10920,2024-08-02,South,Hyderabad,Corporate,Electronics,Headphones,7.0,2615.6,0.0,UPI
+ORD10079,2024-08-03,North,Lucknow,Corporate,Office Supplies,Stapler,7.0,190.52,0.15,UPI
+ORD10465,2024-08-03,East,Patna,Corporate,Clothing,Saree,4.0,3566.95,0.0,Debit Card
+ORD11132,2024-08-03,East,Kolkata,Consumer,Electronics,Smartwatch,3.0,5958.95,0.0,Credit Card
+ORD10489,2024-08-05,South,Chennai,Consumer,Office Supplies,Pen Set,3.0,115.15,0.0,Net Banking
+ORD10951,2024-08-05,West,Mumbai,Consumer,Electronics,Smartwatch,2.0,6914.07,0.0,Credit Card
+ORD11168,2024-08-05,North,Delhi,Small Business,Electronics,Smartwatch,1.0,6070.3,0.2,Debit Card
+ORD10154,2024-08-06,South,Chennai,Consumer,Office Supplies,Pen Set,2.0,119.26,0.1,Net Banking
+ORD10066,2024-08-07,West,Mumbai,Consumer,Office Supplies,Printer Ink,5.0,1184.67,0.0,Credit Card
+ORD10303,2024-08-07,West,Mumbai,Corporate,Clothing,Jacket,4.0,2810.41,0.15,Credit Card
+ORD10461,2024-08-07,north,Lucknow,Consumer,Electronics,Laptop,1.0,53063.66,0.05,Debit Card
+ORD10470,2024-08-07,South,Hyderabad,Consumer,Clothing,T-Shirt,5.0,592.05,0.05,UPI
+ORD10490,2024-08-07,East,Bhubaneswar,Small Business,Office Supplies,Stapler,6.0,181.82,0.0,Debit Card
+ORD10500,2024-08-07,West,Pune,Corporate,Office Supplies,Pen Set,1.0,118.63,0.0,Credit Card
+ORD10629,2024-08-07,West,Mumbai,Consumer,Electronics,Smartphone,2.0,16236.38,0.0,UPI
+ORD10832,2024-08-07,East,Kolkata,Corporate,Electronics,Smartphone,1.0,17573.0,0.1,Net Banking
+ORD11033,2024-08-07,East,Bhubaneswar,Consumer,Office Supplies,Printer Ink,1.0,1181.94,0.0,UPI
+ORD11126,2024-08-07,Central,Nagpur,Corporate,Clothing,Jacket,10.0,2605.59,0.05,UPI
+ORD11031,2024-08-08,South,Hyderabad,Consumer,Office Supplies,Stapler,10.0,163.0,0.0,UPI
+ORD10067,2024-08-10,East,Bhubaneswar,Consumer,Clothing,Saree,4.0,3205.12,0.0,UPI
+ORD10183,2024-08-10,South,Hyderabad,Consumer,Electronics,Laptop,2.0,52555.69,0.1,Credit Card
+ORD10381,2024-08-10,South,Bengaluru,Consumer,Furniture,Office Chair,1.0,7001.04,0.1,Credit Card
+ORD10706,2024-08-10,West,Ahmedabad,Corporate,Furniture,Study Table,,8110.15,0.2,Credit Card
+ORD10144,2024-08-12,Central,Indore,Small Business,Office Supplies,Whiteboard,7.0,,0.0,UPI
+ORD10324,2024-08-12,South,Hyderabad,Consumer,Clothing,Jacket,8.0,2943.88,0.2,Cash
+ORD10611,2024-08-12,West,Pune,Corporate,Clothing,Saree,1.0,3431.06,0.2,UPI
+ORD11024,2024-08-12,South,Bengaluru,Small Business,Furniture,Study Table,3.0,9290.18,0.1,UPI
+ORD10860,2024-08-13,East,Bhubaneswar,Consumer,Office Supplies,Notebook Pack,9.0,245.46,0.05,Credit Card
+ORD10929,2024-08-13,South,Chennai,Consumer,Electronics,Monitor,1.0,10795.0,0.05,UPI
+ORD11155,2024-08-13,South,Bengaluru,Consumer,Clothing,Jeans,10.0,1523.43,0.1,UPI
+ORD10121,2024-08-14,Central,Nagpur,Consumer,Office Supplies,Notebook Pack,10.0,250.61,0.0,UPI
+ORD10165,2024-08-14,East,Kolkata,Consumer,Office Supplies,Whiteboard,5.0,1598.57,0.0,UPI
+ORD10809,2024-08-14,North,Chandigarh,Small Business,Clothing,Saree,5.0,3616.29,0.05,UPI
+ORD10818,2024-08-14,Central,Indore,Small Business,Office Supplies,Notebook Pack,6.0,240.23,0.1,Debit Card
+ORD10969,2024-08-14,West,Mumbai,Corporate,Furniture,Sofa,2.0,29663.21,0.0,Net Banking
+ORD10063,2024-08-15,North,Delhi,Corporate,Office Supplies,Pen Set,1.0,118.09,0.0,UPI
+ORD10244,2024-08-15,North,Delhi,Small Business,Furniture,Bookshelf,3.0,,0.0,Cash
+ORD10672,2024-08-15,South,Bengaluru,Consumer,Office Supplies,Pen Set,,121.17,0.05,Cash
+ORD10690,2024-08-15,South,Hyderabad,Corporate,Clothing,Jeans,2.0,1636.77,0.15,Cash
+ORD10285,2024-08-16,North,Delhi,Consumer,Electronics,Headphones,6.0,2726.92,0.05,UPI
+ORD10496,2024-08-17,South,Bengaluru,Corporate,Office Supplies,Pen Set,7.0,118.24,0.1,UPI
+ORD10960,2024-08-17,South,Hyderabad,Consumer,Office Supplies,Stapler,1.0,187.85,0.0,UPI
+ORD11077,2024-08-17,CENTRAL,Bhopal,Corporate,Clothing,T-Shirt,6.0,618.05,0.1,UPI
+ORD10836,2024-08-18,North,Lucknow,Consumer,Clothing,Saree,10.0,3513.4,0.1,Credit Card
+ORD10148,2024-08-19,North,Chandigarh,Corporate,Electronics,Laptop,3.0,47423.9,0.05,Credit Card
+ORD10353,2024-08-19,East,Patna,Consumer,Clothing,Saree,1.0,3225.05,0.0,Credit Card
+ORD10017,2024-08-20,South,Bengaluru,Consumer,Electronics,Smartphone,1.0,16365.47,0.1,Credit Card
+ORD10289,2024-08-20,South,Bengaluru,Consumer,Electronics,Smartphone,1.0,18777.96,0.15,Credit Card
+ORD10570,2024-08-20,South,Bengaluru,Consumer,Electronics,Monitor,2.0,10113.47,0.05,UPI
+ORD10717,2024-08-20,North,Delhi,Consumer,Clothing,Saree,10.0,3708.19,0.05,UPI
+ORD10721,2024-08-20,East,Kolkata,Consumer,Electronics,Smartphone,1.0,19329.72,0.05,UPI
+ORD10924,2024-08-20,South,Chennai,Consumer,Electronics,Monitor,2.0,10787.74,0.1,Cash
+ORD10354,2024-08-21,West,Mumbai,Consumer,Office Supplies,Stapler,1.0,178.38,0.1,UPI
+ORD10505,2024-08-21,North,Chandigarh,Consumer,Office Supplies,Pen Set,8.0,111.2,0.05,Credit Card
+ORD10880,2024-08-23,East,Patna,Consumer,Electronics,Monitor,1.0,11951.01,0.1,UPI
+ORD10114,2024-08-24,South,Bengaluru,Consumer,Clothing,Jeans,9.0,1371.03,0.05,Credit Card
+ORD10537,2024-08-24,WEST,Pune,Corporate,Electronics,Laptop,3.0,,0.15,Debit Card
+ORD10648,2024-08-24,North,Delhi,Consumer,Office Supplies,Printer Ink,9.0,1179.28,0.0,Credit Card
+ORD10696,2024-08-24,Central,Bhopal,Consumer,Clothing,T-Shirt,3.0,659.73,0.0,Cash
+ORD10745,2024-08-24,North,Delhi,Consumer,Office Supplies,Pen Set,8.0,115.97,0.1,Credit Card
+ORD10730,2024-08-25,South,Bengaluru,Consumer,Clothing,T-Shirt,1.0,554.29,0.1,UPI
+ORD10900,2024-08-25,West,Ahmedabad,Consumer,Electronics,Smartwatch,1.0,Rs.6865.42,0.0,Cash
+ORD10210,2024-08-26,North,Chandigarh,Corporate,Electronics,Laptop,3.0,53538.82,0.0,Credit Card
+ORD10304,2024-08-26,West,Mumbai,Consumer,Electronics,Monitor,2.0,11803.4,0.0,Net Banking
+ORD10864,2024-08-27,West,Ahmedabad,Corporate,Clothing,Jacket,7.0,2904.02,0.05,UPI
+ORD10979,2024-08-27,South,Hyderabad,Consumer,Clothing,T-Shirt,10.0,607.26,0.0,Cash
+ORD11059,2024-08-27,East,Patna,Corporate,Electronics,Headphones,4.0,2698.83,0.15,Cash
+ORD10356,2024-08-28,North,Delhi,Corporate,Electronics,Smartphone,1.0,17752.37,0.0,UPI
+ORD10843,2024-08-28,North,Lucknow,Consumer,Electronics,Laptop,1.0,50869.2,0.0,Debit Card
+ORD10958,2024-08-28,East,Patna,Consumer,Electronics,Smartphone,2.0,16537.11,0.1,Credit Card
+ORD10133,2024-08-29,West,Ahmedabad,Consumer,Electronics,Laptop,1.0,47267.63,0.1,UPI
+ORD10172,2024-08-29,South,Bengaluru,Consumer,Office Supplies,Stapler,2.0,Rs.195.76,0.0,Debit Card
+ORD10212,2024-08-29,South,Hyderabad,Corporate,Electronics,Headphones,3.0,2366.04,0.1,UPI
+ORD10058,2024-08-30,South,Hyderabad,Consumer,Electronics,Headphones,4.0,2377.27,0.0,UPI
+ORD10542,2024-08-30,East,Kolkata,Corporate,Clothing,T-Shirt,7.0,611.32,0.0,UPI
+ORD10772,2024-08-30,East,Bhubaneswar,Consumer,Electronics,Laptop,2.0,52546.48,0.1,Credit Card
+ORD10814,2024-08-30,South,Chennai,Small Business,Electronics,Smartwatch,2.0,6353.12,0.1,Credit Card
+ORD10961,2024-08-31,North,Delhi,Small Business,Furniture,Study Table,1.0,9039.79,0.05,Credit Card
+ORD10719,2024-09-01,Central,Nagpur,Consumer,Office Supplies,Whiteboard,2.0,1651.1,0.05,Credit Card
+ORD11042,2024-09-01,West,Mumbai,Corporate,Electronics,Monitor,,11068.21,0.0,Debit Card
+ORD10040,2024-09-02,North,Chandigarh,Small Business,Electronics,Smartwatch,3.0,6019.98,0.15,Credit Card
+ORD10122,2024-09-02,West,Ahmedabad,Consumer,Office Supplies,Printer Ink,2.0,1174.43,0.15,UPI
+ORD10784,2024-09-02,North,Lucknow,Small Business,Furniture,Sofa,2.0,Rs.33506.12,0.0,UPI
+ORD11064,2024-09-02,West,Mumbai,Consumer,Office Supplies,Whiteboard,1.0,1657.84,0.05,Cash
+ORD10564,2024-09-03,Central,Bhopal,Consumer,Clothing,T-Shirt,2.0,584.13,0.1,UPI
+ORD11011,2024-09-03,East,Kolkata,Corporate,Electronics,Headphones,2.0,2657.93,0.05,Net Banking
+ORD10223,2024-09-04,West,Pune,Corporate,Clothing,Jeans,10.0,1474.21,0.0,Debit Card
+ORD10300,2024-09-04,South,Hyderabad,Consumer,Office Supplies,Pen Set,10.0,120.94,0.1,UPI
+ORD11113,2024-09-04,Central,Indore,Corporate,Office Supplies,Printer Ink,10.0,1226.63,0.15,Credit Card
+ORD10260,2024-09-05,West,Ahmedabad,Consumer,Clothing,Jacket,1.0,2988.22,0.2,Credit Card
+ORD10336,2024-09-05,South,Bengaluru,Consumer,Office Supplies,Pen Set,7.0,131.49,0.1,Credit Card
+ORD10804,2024-09-05,South,Chennai,Consumer,Clothing,Saree,7.0,3579.76,0.15,Cash
+ORD10078,2024-09-06,West,Mumbai,,Furniture,Bookshelf,1.0,5604.71,0.2,UPI
+ORD10274,2024-09-06,South,Chennai,,Clothing,T-Shirt,1.0,658.43,0.15,UPI
+ORD10645,2024-09-06,East,Patna,Corporate,Office Supplies,Pen Set,7.0,110.36,0.0,Cash
+ORD10699,2024-09-06,West,Mumbai,Corporate,Office Supplies,Printer Ink,4.0,1254.79,0.05,Net Banking
+ORD11129,2024-09-06,North,Delhi,Corporate,Electronics,Headphones,5.0,2558.29,0.0,Credit Card
+ORD11162,2024-09-06,West,Mumbai,Consumer,Clothing,T-Shirt,6.0,598.25,0.1,Credit Card
+ORD10096,2024-09-07,West,Ahmedabad,Consumer,Office Supplies,Stapler,7.0,185.01,0.1,Net Banking
+ORD10365,2024-09-07,West,Ahmedabad,Corporate,Office Supplies,Pen Set,1.0,126.46,0.15,Cash
+ORD11044,2024-09-07,East,Bhubaneswar,Corporate,Office Supplies,Printer Ink,9.0,1123.45,0.05,UPI
+ORD10351,2024-09-08,East,Bhubaneswar,Corporate,Electronics,Headphones,5.0,,0.05,Cash
+ORD10822,2024-09-08,North,Delhi,Consumer,Clothing,Saree,10.0,3271.09,0.05,UPI
+ORD10906,2024-09-08,North,Lucknow,Consumer,Furniture,Office Chair,1.0,7546.51,0.0,Debit Card
+ORD10991,2024-09-08,North,Lucknow,Consumer,Electronics,Monitor,1.0,10638.23,0.05,Credit Card
+ORD10412,2024-09-09,Central,Bhopal,Corporate,Office Supplies,Stapler,9.0,183.43,0.1,Debit Card
+ORD10308,2024-09-10,South,Chennai,Consumer,Electronics,Laptop,3.0,51324.91,0.05,Credit Card
+ORD10467,2024-09-10,West,Mumbai,Corporate,Electronics,Smartphone,3.0,19789.29,0.05,Debit Card
+ORD10698,2024-09-10,West,Pune,Consumer,Electronics,Smartwatch,2.0,6776.74,0.1,Cash
+ORD10061,2024-09-11,South,Hyderabad,Corporate,Office Supplies,Notebook Pack,,231.33,0.05,Cash
+ORD10450,2024-09-11,South,Bengaluru,Consumer,Office Supplies,Printer Ink,2.0,1150.39,0.0,Credit Card
+ORD10493,2024-09-11,Central,Indore,Consumer,Office Supplies,Printer Ink,8.0,,0.15,UPI
+ORD10598,2024-09-11,South,Chennai,Consumer,Electronics,Smartphone,2.0,18727.4,0.15,Net Banking
+ORD10685,2024-09-11,West,Mumbai,Consumer,Clothing,Saree,1.0,3612.12,0.0,Net Banking
+ORD10448,2024-09-12,North,Delhi,Consumer,Office Supplies,Whiteboard,5.0,1484.04,0.0,UPI
+ORD10659,2024-09-12,Central,Bhopal,Consumer,Furniture,Bookshelf,3.0,5611.34,0.0,UPI
+ORD11005,2024-09-12,Central,Nagpur,Corporate,Clothing,Jeans,7.0,1541.52,0.0,Credit Card
+ORD10020,2024-09-13,North,Lucknow,Consumer,Clothing,Jacket,1.0,3037.98,0.2,Debit Card
+ORD10349,2024-09-13,SOUTH,Chennai,Consumer,Furniture,Study Table,2.0,Rs.9844.84,0.0,Debit Card
+ORD10360,2024-09-13,South,Hyderabad,Consumer,Clothing,T-Shirt,3.0,627.09,0.0,Debit Card
+ORD10773,2024-09-13,North,Lucknow,Consumer,Furniture,Study Table,1.0,9299.04,0.1,UPI
+ORD11079,2024-09-13,South,Chennai,Consumer,Office Supplies,Whiteboard,7.0,1546.28,0.1,Net Banking
+ORD10065,2024-09-14,South,Chennai,Corporate,Electronics,Smartphone,2.0,18822.53,0.0,Net Banking
+ORD10245,2024-09-14,West,Pune,Corporate,Furniture,Office Chair,2.0,7066.83,0.0,UPI
+ORD10460,2024-09-14,North,Delhi,Corporate,Clothing,T-Shirt,5.0,579.38,0.0,Cash
+ORD10534,2024-09-14,West,Mumbai,Small Business,Electronics,Smartphone,1.0,17004.6,0.1,Credit Card
+ORD10997,2024-09-14,North,Lucknow,Consumer,Office Supplies,Notebook Pack,3.0,235.16,0.1,Credit Card
+ORD11043,2024-09-14,North,Chandigarh,Consumer,Office Supplies,Printer Ink,4.0,1253.19,0.1,UPI
+ORD10054,2024-09-15,North,Delhi,Consumer,Electronics,Smartwatch,3.0,6441.96,0.15,Net Banking
+ORD11051,2024-09-15,West,Mumbai,Consumer,Office Supplies,Printer Ink,1.0,1250.58,0.0,Credit Card
+ORD10197,2024-09-16,West,Ahmedabad,Consumer,Office Supplies,Stapler,2.0,162.95,0.0,Net Banking
+ORD10411,2024-09-16,north,Chandigarh,Consumer,Office Supplies,Printer Ink,6.0,1231.6,0.15,Credit Card
+ORD10559,2024-09-16,South,Hyderabad,Consumer,Electronics,Smartphone,1.0,19506.91,0.0,Cash
+ORD10612,2024-09-16,North,Lucknow,Corporate,Office Supplies,Printer Ink,5.0,1139.24,0.0,Credit Card
+ORD10976,2024-09-16,West,Pune,Small Business,Clothing,Jeans,2.0,1564.34,0.05,Net Banking
+ORD10186,2024-09-17,East,Kolkata,Consumer,Electronics,Monitor,3.0,10680.56,0.0,UPI
+ORD10234,2024-09-17,West,Ahmedabad,Corporate,Office Supplies,Whiteboard,5.0,1671.19,0.15,UPI
+ORD10421,2024-09-17,North,Chandigarh,Corporate,Electronics,Smartwatch,3.0,6228.64,0.05,Credit Card
+ORD10483,2024-09-17,South,Chennai,Small Business,Furniture,Bookshelf,3.0,5679.56,0.0,UPI
+ORD10524,2024-09-17,East,Patna,Corporate,Office Supplies,Whiteboard,6.0,1602.8,0.1,Cash
+ORD11198,2024-09-17,South,Bengaluru,Corporate,Electronics,Laptop,2.0,56558.29,0.0,Net Banking
+ORD10130,2024-09-18,West,Mumbai,Corporate,Office Supplies,Whiteboard,6.0,1739.19,0.0,UPI
+ORD10247,2024-09-18,South,Bengaluru,Consumer,Office Supplies,Notebook Pack,10.0,233.55,0.05,UPI
+ORD10329,2024-09-18,North,Delhi,Consumer,Office Supplies,Notebook Pack,8.0,242.21,0.1,Cash
+ORD10492,2024-09-18,South,Chennai,Consumer,Office Supplies,Printer Ink,2.0,1303.06,0.0,UPI
+ORD10675,2024-09-18,East,Bhubaneswar,Corporate,Electronics,Smartphone,1.0,18233.43,0.0,Credit Card
+ORD10827,2024-09-18,West,Ahmedabad,Corporate,Clothing,T-Shirt,5.0,582.74,0.1,Credit Card
+ORD10229,2024-09-19,West,Pune,Consumer,Furniture,Office Chair,2.0,7456.43,0.2,Cash
+ORD10326,2024-09-19,East,Patna,Consumer,Electronics,Laptop,3.0,48425.25,0.15,Net Banking
+ORD10425,2024-09-19,South,Chennai,Consumer,Electronics,Smartphone,2.0,19796.01,0.15,Net Banking
+ORD10498,2024-09-19,West,Pune,Corporate,Clothing,Jacket,6.0,2831.67,0.0,Credit Card
+ORD10770,2024-09-19,North,Chandigarh,Consumer,Clothing,Jacket,5.0,2897.0,0.0,UPI
+ORD10777,2024-09-19,South,Hyderabad,Small Business,Furniture,Office Chair,3.0,7511.53,0.15,Cash
+ORD11025,2024-09-19,South,Hyderabad,Consumer,Electronics,Smartwatch,3.0,6592.58,0.1,Debit Card
+ORD11036,2024-09-19,North,Chandigarh,Consumer,Clothing,T-Shirt,1.0,627.62,0.2,UPI
+ORD10081,2024-09-20,East,Patna,Small Business,Electronics,Headphones,10.0,Rs.2368.35,0.0,UPI
+ORD10586,2024-09-20,West,Mumbai,Corporate,Electronics,Smartwatch,2.0,6824.9,0.0,UPI
+ORD10600,2024-09-20,West,Ahmedabad,Consumer,Office Supplies,Stapler,8.0,168.24,0.15,UPI
+ORD11092,2024-09-20,West,Ahmedabad,Consumer,Furniture,Sofa,1.0,32118.73,0.2,UPI
+ORD10393,2024-09-22,South,Bengaluru,Consumer,Office Supplies,Pen Set,2.0,118.48,0.0,Cash
+ORD10565,2024-09-23,South,Hyderabad,Small Business,Furniture,Sofa,2.0,33681.09,0.0,UPI
+ORD10882,2024-09-23,South,Hyderabad,Corporate,Office Supplies,Pen Set,6.0,125.85,0.1,Debit Card
+ORD11072,2024-09-23,South,Bengaluru,Consumer,Electronics,Headphones,4.0,2434.75,0.0,Credit Card
+ORD10824,2024-09-24,Central,Indore,Corporate,Electronics,Smartwatch,1.0,6823.33,0.1,UPI
+ORD10923,2024-09-24,Central,Indore,Corporate,Electronics,Smartphone,3.0,16970.12,0.15,UPI
+ORD10135,2024-09-25,North,Chandigarh,Corporate,Clothing,Saree,1.0,3667.35,0.0,Debit Card
+ORD11121,2024-09-25,West,Pune,Corporate,Electronics,Headphones,6.0,2589.82,0.0,Credit Card
+ORD10158,2024-09-26,Central,Nagpur,Corporate,Electronics,Smartwatch,3.0,6622.32,0.0,UPI
+ORD10594,2024-09-26,South,Bengaluru,Small Business,Furniture,Bookshelf,2.0,5116.01,0.1,Net Banking
+ORD10790,2024-09-26,South,Chennai,Consumer,Clothing,Jeans,3.0,1370.96,0.05,UPI
+ORD10831,2024-09-26,West,Mumbai,Consumer,Clothing,Jacket,7.0,3007.96,0.0,UPI
+ORD10251,2024-09-27,South,Bengaluru,Small Business,Clothing,Jacket,10.0,2944.69,0.1,Cash
+ORD10479,2024-09-27,North,Delhi,Consumer,Office Supplies,Notebook Pack,1.0,230.53,0.1,Cash
+ORD10578,2024-09-27,South,Hyderabad,Consumer,Electronics,Smartwatch,2.0,6754.3,0.0,Credit Card
+ORD10013,2024-09-28,East,Kolkata,Consumer,Furniture,Office Chair,1.0,7015.5,0.0,UPI
+ORD11095,2024-09-28,East,Kolkata,Consumer,Clothing,T-Shirt,5.0,648.75,0.15,Credit Card
+ORD11190,2024-09-28,West,Ahmedabad,Small Business,Furniture,Sofa,1.0,30666.46,0.0,Credit Card
+ORD10344,2024-09-29,East,Kolkata,Consumer,Electronics,Smartphone,2.0,17565.36,0.0,UPI
+ORD10391,2024-09-29,Central,Bhopal,Consumer,Clothing,Jacket,2.0,3006.09,0.1,Debit Card
+ORD10478,2024-09-29,East,Bhubaneswar,Consumer,Office Supplies,Pen Set,2.0,130.36,0.05,Debit Card
+ORD11062,2024-09-29,South,Bengaluru,Consumer,Furniture,Study Table,1.0,9115.67,0.05,Cash
+ORD10120,2024-09-30,Central,Indore,Consumer,Electronics,Smartphone,1.0,16702.2,0.15,Credit Card
+ORD10440,2024-09-30,Central,Bhopal,Consumer,Electronics,Monitor,2.0,11327.46,0.1,Debit Card
+ORD10819,2024-09-30,South,Hyderabad,Consumer,Office Supplies,Stapler,4.0,195.82,0.0,UPI
+ORD10879,2024-09-30,Central,Nagpur,Corporate,Electronics,Headphones,1.0,2667.0,0.1,UPI
+ORD11012,2024-09-30,South,Hyderabad,Corporate,Clothing,Saree,4.0,3750.21,0.0,UPI
+ORD10001,2024-10-01,East,Kolkata,Consumer,Electronics,Smartwatch,2.0,6751.6,0.1,Credit Card
+ORD10043,2024-10-01,North,Lucknow,Consumer,Electronics,Smartphone,2.0,17563.04,0.1,UPI
+ORD10159,2024-10-01,West,Pune,Corporate,Electronics,Headphones,8.0,2289.75,0.0,Debit Card
+ORD10736,2024-10-01,Central,Bhopal,Corporate,Electronics,Smartphone,2.0,Rs.19544.19,0.15,Debit Card
+ORD10834,2024-10-01,East,Bhubaneswar,Consumer,Office Supplies,Whiteboard,6.0,1565.41,0.0,UPI
+ORD11086,2024-10-01,West,Ahmedabad,Small Business,Office Supplies,Whiteboard,1.0,1750.54,0.1,Cash
+ORD10105,2024-10-02,Central,Nagpur,Consumer,Furniture,Office Chair,2.0,8163.76,0.05,Debit Card
+ORD10380,2024-10-02,South,Bengaluru,Consumer,Office Supplies,Pen Set,8.0,131.46,0.1,UPI
+ORD10466,2024-10-02,North,Lucknow,Consumer,Electronics,Smartwatch,3.0,6999.85,0.2,Cash
+ORD10957,2024-10-02,East,Patna,Small Business,Office Supplies,Pen Set,8.0,131.04,0.0,UPI
+ORD10755,2024-10-03,East,Kolkata,Small Business,Electronics,Monitor,1.0,10690.41,0.2,UPI
+ORD10848,2024-10-03,South,Hyderabad,Consumer,Electronics,Smartwatch,1.0,6371.43,0.15,UPI
+ORD10935,2024-10-03,South,Hyderabad,Corporate,Furniture,Bookshelf,3.0,6016.72,0.0,UPI
+ORD11128,2024-10-03,South,Hyderabad,Corporate,Furniture,Bookshelf,3.0,5468.63,0.1,UPI
+ORD10102,2024-10-04,West,Ahmedabad,Consumer,Office Supplies,Notebook Pack,7.0,259.84,0.15,Net Banking
+ORD10106,2024-10-04,North,Chandigarh,Consumer,Electronics,Headphones,7.0,2366.28,0.1,Cash
+ORD10156,2024-10-04,North,Chandigarh,Consumer,Office Supplies,Notebook Pack,1.0,237.06,0.0,Credit Card
+ORD10215,2024-10-04,East,Patna,Consumer,Furniture,Study Table,2.0,8112.75,0.1,UPI
+ORD10299,2024-10-04,North,Chandigarh,Consumer,Office Supplies,Stapler,1.0,182.66,0.1,Debit Card
+ORD10453,2024-10-04,East,Bhubaneswar,Small Business,Clothing,T-Shirt,3.0,584.22,0.0,Credit Card
+ORD10761,2024-10-04,West,Pune,Consumer,Office Supplies,Printer Ink,10.0,1254.29,0.0,UPI
+ORD10761,2024-10-04,West,Pune,Consumer,Office Supplies,Printer Ink,10.0,1254.29,0.0,UPI
+ORD10031,2024-10-05,East,Kolkata,Small Business,Office Supplies,Notebook Pack,9.0,242.24,0.0,UPI
+ORD10491,2024-10-05,West,Mumbai,Small Business,Electronics,Headphones,4.0,2282.17,0.0,UPI
+ORD10638,2024-10-05,South,Hyderabad,Small Business,Clothing,Jacket,1.0,2776.11,0.1,Credit Card
+ORD10338,2024-10-06,North,Delhi,Consumer,Office Supplies,Whiteboard,2.0,1726.81,0.0,UPI
+ORD10529,2024-10-06,South,Hyderabad,Small Business,Furniture,Office Chair,2.0,7249.24,0.1,Net Banking
+ORD10531,2024-10-06,North,Lucknow,Consumer,Office Supplies,Pen Set,5.0,120.33,0.0,Debit Card
+ORD10649,2024-10-06,Central,Indore,Consumer,Furniture,Bookshelf,1.0,5657.18,0.05,UPI
+ORD10697,2024-10-06,South,Bengaluru,Consumer,Office Supplies,Stapler,10.0,166.7,0.0,UPI
+ORD10857,2024-10-06,West,Ahmedabad,Consumer,Electronics,Monitor,2.0,11056.01,0.1,Cash
+ORD10871,2024-10-06,Central,Nagpur,Consumer,Office Supplies,Whiteboard,3.0,1709.98,0.1,Credit Card
+ORD10890,2024-10-06, South,Hyderabad,Corporate,Electronics,Laptop,3.0,49507.02,0.1,Debit Card
+ORD10895,2024-10-06,South,Hyderabad,Consumer,Furniture,Study Table,1.0,9332.61,0.05,Net Banking
+ORD10439,2024-10-07,South,Chennai,Consumer,Electronics,Smartphone,2.0,16213.41,0.1,Net Banking
+ORD10779,2024-10-07,Central,Nagpur,Corporate,Furniture,Sofa,2.0,34617.6,0.1,UPI
+ORD10087,2024-10-08,East,Patna,Corporate,Office Supplies,Pen Set,4.0,110.17,0.0,Credit Card
+ORD10208,2024-10-08,West,Ahmedabad,Consumer,Clothing,Jacket,6.0,2633.5,0.1,Net Banking
+ORD10567,2024-10-08,East,Kolkata,Consumer,Electronics,Laptop,1.0,53468.37,0.1,Net Banking
+ORD10689,2024-10-08,Central,Nagpur,Corporate,Office Supplies,Stapler,8.0,185.95,0.0,Credit Card
+ORD10875,2024-10-08,Central,Indore,Corporate,Clothing,Jeans,7.0,1531.53,0.0,UPI
+ORD11068,2024-10-08,South,Bengaluru,Consumer,Furniture,Office Chair,2.0,7425.71,0.0,UPI
+ORD10021,2024-10-09,Central,Bhopal,Corporate,Clothing,Saree,8.0,3535.23,0.15,Credit Card
+ORD10030,2024-10-09,North,Delhi,Consumer,Electronics,Headphones,3.0,2478.27,0.0,Credit Card
+ORD10092,2024-10-09,West,Ahmedabad,Corporate,Office Supplies,Notebook Pack,,259.15,0.2,UPI
+ORD10387,2024-10-09,East,Kolkata,Consumer,Office Supplies,Printer Ink,3.0,1301.79,0.05,Net Banking
+ORD10639,2024-10-09,West,Pune,Consumer,Furniture,Office Chair,3.0,8163.2,0.1,UPI
+ORD10800,2024-10-09,Central,Indore,Consumer,Clothing,Jacket,1.0,3040.67,0.05,Cash
+ORD10433,2024-10-10,South,Bengaluru,Corporate,Electronics,Laptop,3.0,52103.88,0.0,Net Banking
+ORD10597,2024-10-10,Central,Bhopal,Small Business,Office Supplies,Stapler,2.0,Rs.174.54,0.1,UPI
+ORD10025,2024-10-11,South,Chennai,Consumer,Clothing,Jacket,1.0,2664.42,0.2,UPI
+ORD10185,2024-10-11,Central,Indore,Corporate,Electronics,Headphones,3.0,2281.29,0.1,Cash
+ORD10621,2024-10-11,South,Hyderabad,Consumer,Electronics,Monitor,1.0,11130.92,0.0,Cash
+ORD11087,2024-10-11,Central,Indore,Small Business,Office Supplies,Pen Set,8.0,114.83,0.2,UPI
+ORD11174,2024-10-11,South,Bengaluru,Consumer,Electronics,Headphones,5.0,,0.1,UPI
+ORD10025,2024-10-11,South,Chennai,Consumer,Clothing,Jacket,1.0,2664.42,0.2,UPI
+ORD10007,2024-10-12,South,Chennai,Consumer,Furniture,Bookshelf,1.0,5785.61,0.15,Debit Card
+ORD10367,2024-10-12,North,Chandigarh,Corporate,Furniture,Study Table,2.0,9221.55,0.2,Debit Card
+ORD10837,2024-10-12,North,Delhi,Consumer,Clothing,T-Shirt,8.0,571.1,0.1,UPI
+ORD10367,2024-10-12,North,Chandigarh,Corporate,Furniture,Study Table,2.0,9221.55,0.2,Debit Card
+ORD10641,2024-10-13,South,Hyderabad,Consumer,Clothing,Jacket,4.0,2588.54,0.1,Credit Card
+ORD11060,2024-10-13,West,Pune,Consumer,Clothing,T-Shirt,3.0,564.25,0.1,Credit Card
+ORD11147,2024-10-13,West,Mumbai,Consumer,Furniture,Sofa,1.0,32119.0,0.0,UPI
+ORD10861,2024-10-14,North,Chandigarh,Corporate,Electronics,Smartphone,1.0,17589.07,0.1,Debit Card
+ORD10446,2024-10-15,North,Delhi,Small Business,Electronics,Monitor,2.0,10439.22,0.2,Credit Card
+ORD10616,2024-10-15,North,Delhi,Consumer,Clothing,Jeans,1.0,1526.63,0.05,UPI
+ORD10862,2024-10-15,South,Bengaluru,Corporate,Furniture,Office Chair,3.0,6841.29,0.05,Net Banking
+ORD11160,2024-10-15,South,Chennai,Corporate,Office Supplies,Whiteboard,2.0,1664.58,0.2,UPI
+ORD10501,2024-10-16,North,Chandigarh,Consumer,Office Supplies,Whiteboard,1.0,1685.99,0.1,Credit Card
+ORD10911,2024-10-16,South,Hyderabad,Corporate,Clothing,Saree,7.0,3545.55,0.0,Debit Card
+ORD10501,2024-10-16,North,Chandigarh,Consumer,Office Supplies,Whiteboard,1.0,1685.99,0.1,Credit Card
+ORD10118,2024-10-17,North,Lucknow,Corporate,Clothing,Jacket,1.0,2740.25,0.15,Credit Card
+ORD10394,2024-10-17,West,Mumbai,Corporate,Furniture,Bookshelf,2.0,5429.87,0.05,Credit Card
+ORD10549,2024-10-17,West,Ahmedabad,Small Business,Clothing,Saree,1.0,3550.37,0.05,Cash
+ORD10617,2024-10-17,West,Mumbai,Small Business,Office Supplies,Notebook Pack,10.0,261.58,0.1,Credit Card
+ORD10992,2024-10-17,Central,Bhopal,Consumer,Office Supplies,Whiteboard,6.0,1723.74,0.15,UPI
+ORD10004,2024-10-18,East,Bhubaneswar,Consumer,Office Supplies,Notebook Pack,1.0,250.78,0.05,Credit Card
+ORD10180,2024-10-18,North,Delhi,,Electronics,Headphones,1.0,2552.07,0.2,Debit Card
+ORD10256,2024-10-18,South,Bengaluru,Consumer,Clothing,Saree,4.0,3290.19,0.0,Debit Card
+ORD10666,2024-10-18,North,Lucknow,Small Business,Electronics,Monitor,3.0,9930.46,0.1,UPI
+ORD10835,2024-10-18,South,Hyderabad,Corporate,Furniture,Sofa,2.0,31444.69,0.15,Cash
+ORD11048,2024-10-18,North,Chandigarh,Consumer,Furniture,Study Table,3.0,Rs.8659.61,0.0,Net Banking
+ORD10064,2024-10-19,North,Delhi,Corporate,Clothing,Jacket,8.0,2631.89,0.0,Credit Card
+ORD10160,2024-10-19,South,Bengaluru,Consumer,Office Supplies,Whiteboard,10.0,1469.3,0.1,Debit Card
+ORD10566,2024-10-19,North,Lucknow,Consumer,Furniture,Office Chair,3.0,7262.56,0.1,UPI
+ORD10947,2024-10-19,East,Kolkata,Consumer,Electronics,Smartphone,1.0,17153.31,0.2,UPI
+ORD10609,2024-10-20, South,Bengaluru,Consumer,Electronics,Headphones,10.0,2583.65,0.05,Debit Card
+ORD11017,2024-10-20,North,Delhi,Corporate,Furniture,Bookshelf,3.0,5739.91,0.1,UPI
+ORD11200,2024-10-20,West,Ahmedabad,Corporate,Office Supplies,Whiteboard,2.0,1604.24,0.2,Credit Card
+ORD10216,2024-10-21,West,Pune,Corporate,Furniture,Office Chair,3.0,7884.82,0.0,Credit Card
+ORD10371,2024-10-21,North,Delhi,Consumer,Electronics,Smartphone,2.0,17809.92,0.0,UPI
+ORD10532,2024-10-21,West,Pune,Consumer,Office Supplies,Stapler,4.0,191.75,0.1,UPI
+ORD10602,2024-10-21,West,Mumbai,Consumer,Electronics,Laptop,2.0,55262.26,0.1,Credit Card
+ORD11009,2024-10-21,East,Kolkata,Small Business,Electronics,Headphones,5.0,2653.69,0.2,UPI
+ORD10117,2024-10-22,West,Mumbai,Small Business,Office Supplies,Printer Ink,4.0,1307.68,0.15,Cash
+ORD10318,2024-10-22,North,Chandigarh,Corporate,Electronics,Smartwatch,2.0,6048.66,0.0,UPI
+ORD11176,2024-10-22,South,Bengaluru,Small Business,Office Supplies,Stapler,3.0,170.99,0.2,Debit Card
+ORD10443,2024-10-24,North,Delhi,Corporate,Electronics,Monitor,2.0,11067.05,0.05,UPI
+ORD10653,2024-10-24,East,Kolkata,Corporate,Office Supplies,Stapler,2.0,168.84,0.1,Credit Card
+ORD10712,2024-10-24,Central,Bhopal,Consumer,Clothing,T-Shirt,2.0,634.41,0.1,Credit Card
+ORD11032,2024-10-24,West,Ahmedabad,Corporate,Clothing,Jeans,1.0,1395.67,0.1,UPI
+ORD10049,2024-10-25,South,Bengaluru,Corporate,Furniture,Bookshelf,2.0,5233.11,0.1,Credit Card
+ORD10432,2024-10-25,East,Bhubaneswar,Corporate,Clothing,Saree,9.0,3544.28,0.1,Cash
+ORD10637,2024-10-25,South,Hyderabad,Corporate,Clothing,T-Shirt,3.0,584.1,0.1,UPI
+ORD10674,2024-10-25,West,Pune,Consumer,Office Supplies,Printer Ink,3.0,1212.01,0.0,UPI
+ORD11022,2024-10-25,Central,Indore,Consumer,Office Supplies,Pen Set,7.0,113.63,0.1,UPI
+ORD11029,2024-10-25,West,Pune,Small Business,Office Supplies,Notebook Pack,10.0,273.29,0.2,UPI
+ORD10055,2024-10-26,North,Chandigarh,Consumer,Clothing,T-Shirt,4.0,653.7,0.1,UPI
+ORD11140,2024-10-26,West,Pune,Consumer,Office Supplies,Printer Ink,6.0,1100.34,0.0,Cash
+ORD10201,2024-10-27,West,Ahmedabad,Consumer,Electronics,Headphones,5.0,2722.07,0.1,UPI
+ORD10418,2024-10-27,North,Delhi,Consumer,Electronics,Smartphone,3.0,18733.57,0.0,UPI
+ORD10934,2024-10-27,North,Lucknow,Consumer,Office Supplies,Pen Set,8.0,124.69,0.0,UPI
+ORD11056,2024-10-27,North,Delhi,Consumer,Clothing,Saree,1.0,3724.55,0.1,UPI
+ORD11172,2024-10-27,South,Chennai,Consumer,Electronics,Monitor,3.0,10293.52,0.1,Cash
+ORD10301,2024-10-28,North,Chandigarh,Corporate,Clothing,Saree,2.0,3280.52,0.0,Debit Card
+ORD10357,2024-10-28,North,Lucknow,Corporate,Office Supplies,Stapler,5.0,192.62,0.05,UPI
+ORD11106,2024-10-28,South,Chennai,Small Business,Electronics,Smartwatch,3.0,6877.27,0.2,UPI
+ORD11181,2024-10-28,West,Mumbai,Consumer,Furniture,Study Table,3.0,9823.07,0.1,Debit Card
+ORD10275,2024-10-29,North,Chandigarh,Consumer,Office Supplies,Whiteboard,9.0,1607.41,0.1,Credit Card
+ORD10333,2024-10-29,North,Delhi,Corporate,Electronics,Laptop,2.0,52117.21,0.1,UPI
+ORD10801,2024-10-29,East,Kolkata,Consumer,Electronics,Monitor,,10306.96,0.0,Credit Card
+ORD10930,2024-10-29,South,Bengaluru,Consumer,Office Supplies,Whiteboard,5.0,1578.02,0.0,Cash
+ORD10331,2024-10-30,South,Chennai,Consumer,Office Supplies,Pen Set,7.0,122.84,0.0,Debit Card
+ORD10518,2024-10-30,North,Delhi,Consumer,Office Supplies,Printer Ink,2.0,1198.37,0.1,Net Banking
+ORD10604,2024-10-30,South,Chennai,Small Business,Clothing,Jacket,6.0,2608.19,0.1,Debit Card
+ORD10983,2024-10-30,Central,Nagpur,Consumer,Furniture,Sofa,1.0,Rs.33770.64,0.1,UPI
+ORD11088,2024-10-30,South,Hyderabad,Small Business,Electronics,Monitor,1.0,11793.47,0.1,Credit Card
+ORD10189,2024-10-31,North,Lucknow,Corporate,Electronics,Monitor,3.0,10681.45,0.15,Net Banking
+ORD10211,2024-10-31,Central,Bhopal,Corporate,Clothing,Saree,4.0,3511.13,0.1,UPI
+ORD10368,2024-10-31,South,Bengaluru,Small Business,Clothing,Saree,3.0,3224.47,0.2,UPI
+ORD10574,2024-10-31,West,Pune,Corporate,Electronics,Laptop,3.0,54282.37,0.0,Cash
+ORD10799,2024-10-31,East,Patna,Small Business,Office Supplies,Pen Set,10.0,116.69,0.1,Net Banking
+ORD10807,2024-10-31,East,Kolkata,Corporate,Office Supplies,Notebook Pack,3.0,225.71,0.15,Net Banking
+ORD11134,2024-10-31,East,Patna,Consumer,Clothing,Jacket,7.0,Rs.2529.07,0.1,Cash
+ORD10042,2024-11-01,East,Kolkata,Consumer,Electronics,Laptop,3.0,,0.1,UPI
+ORD10236,2024-11-01,Central,Bhopal,Consumer,Clothing,Jacket,9.0,3052.72,0.1,Credit Card
+ORD10246,2024-11-01,East,Kolkata,Consumer,Electronics,Laptop,2.0,55023.01,0.15,Credit Card
+ORD10575,2024-11-01,North,Chandigarh,Consumer,Office Supplies,Notebook Pack,2.0,227.21,0.1,Credit Card
+ORD10817,2024-11-01,North,Chandigarh,Small Business,Clothing,Jacket,5.0,2827.78,0.0,Debit Card
+ORD10257,2024-11-02,South,Chennai,Consumer,Electronics,Smartphone,1.0,17201.33,0.0,UPI
+ORD10572,2024-11-02,South,Chennai,Consumer,Furniture,Office Chair,3.0,8221.47,0.1,Credit Card
+ORD10713,2024-11-02,West,Pune,Corporate,Office Supplies,Whiteboard,4.0,1455.64,0.15,UPI
+ORD10789,2024-11-02,Central,Nagpur,Corporate,Electronics,Smartwatch,2.0,Rs.6751.13,0.1,Debit Card
+ORD10053,2024-11-03,West,Pune,Corporate,Clothing,T-Shirt,3.0,647.37,0.0,Credit Card
+ORD10194,2024-11-03,West,Mumbai,Consumer,Office Supplies,Stapler,9.0,179.4,0.1,Debit Card
+ORD10305,2024-11-03,West,Pune,Corporate,Furniture,Sofa,2.0,35177.63,0.1,Net Banking
+ORD10512,2024-11-03,East,Bhubaneswar,Consumer,Office Supplies,Pen Set,6.0,131.59,0.1,UPI
+ORD11143,2024-11-03,East,Kolkata,Consumer,Office Supplies,Notebook Pack,10.0,Rs.259.78,0.0,UPI
+ORD10430,2024-11-04,East,Kolkata,Consumer,Furniture,Study Table,1.0,9779.54,0.05,Net Banking
+ORD10627,2024-11-04,South,Bengaluru,Consumer,Furniture,Bookshelf,3.0,5833.68,0.1,UPI
+ORD10750,2024-11-04,South,Bengaluru,Consumer,Electronics,Smartphone,2.0,19661.52,0.05,UPI
+ORD10948,2024-11-04,East,Bhubaneswar,Corporate,Clothing,Jacket,8.0,2988.28,0.2,Net Banking
+ORD10949,2024-11-04,North,Lucknow,Consumer,Clothing,Saree,5.0,3791.69,0.1,Credit Card
+ORD11099,2024-11-04,South,Bengaluru,Corporate,Clothing,T-Shirt,5.0,551.89,0.1,Debit Card
+ORD10080,2024-11-05,East,Patna,Small Business,Electronics,Monitor,1.0,11950.28,0.1,Credit Card
+ORD10327,2024-11-05,East,Kolkata,Consumer,Electronics,Laptop,3.0,47579.19,0.15,Credit Card
+ORD10853,2024-11-05,North,Delhi,Corporate,Electronics,Headphones,5.0,2719.3,0.0,Cash
+ORD10922,2024-11-05,Central,Nagpur,Consumer,Furniture,Office Chair,1.0,6953.1,0.05,Cash
+ORD10083,2024-11-06,East,Kolkata,Small Business,Clothing,Saree,9.0,3652.85,0.0,Credit Card
+ORD10345,2024-11-06,North,Chandigarh,Corporate,Clothing,Jeans,2.0,1599.41,0.05,UPI
+ORD10540,2024-11-06,South,Hyderabad,Small Business,Office Supplies,Stapler,2.0,191.5,0.15,UPI
+ORD10640,2024-11-06,West,Ahmedabad,Corporate,Clothing,Jeans,5.0,1433.83,0.1,Credit Card
+ORD10652,2024-11-06,South,Chennai,Corporate,Office Supplies,Whiteboard,8.0,Rs.1710.8,0.1,Credit Card
+ORD10780,2024-11-06,Central,Bhopal,Consumer,Electronics,Smartwatch,1.0,6675.28,0.0,Net Banking
+ORD10858,2024-11-06,North,Chandigarh,Small Business,Electronics,Smartwatch,3.0,6480.0,0.0,UPI
+ORD10334,2024-11-07,West,Ahmedabad,Consumer,Clothing,Saree,8.0,3764.02,0.05,UPI
+ORD10842,2024-11-07,West ,Ahmedabad,Consumer,Furniture,Sofa,1.0,34931.02,0.2,Net Banking
+ORD10928,2024-11-07,North,Chandigarh,Small Business,Electronics,Headphones,4.0,2409.72,0.1,Cash
+ORD11071,2024-11-07,North,Lucknow,Corporate,Office Supplies,Pen Set,8.0,122.58,0.15,UPI
+ORD11084,2024-11-07,West,Ahmedabad,Corporate,Office Supplies,Pen Set,3.0,111.18,0.2,Cash
+ORD11104,2024-11-07,South,Hyderabad,Consumer,Electronics,Monitor,3.0,10448.54,0.15,UPI
+ORD11186,2024-11-07,East,Bhubaneswar,Consumer,Office Supplies,Pen Set,7.0,119.83,0.0,UPI
+ORD10241,2024-11-08,South,Chennai,Consumer,Electronics,Headphones,1.0,2661.06,0.15,UPI
+ORD10495,2024-11-08,West,Pune,Small Business,Furniture,Bookshelf,3.0,5306.77,0.1,Credit Card
+ORD10816,2024-11-08,North,Delhi,Consumer,Clothing,Jacket,2.0,2749.95,0.15,Net Banking
+ORD11166,2024-11-08,North,Chandigarh,Corporate,Office Supplies,Stapler,10.0,181.81,0.1,Cash
+ORD11195,2024-11-08,South,Chennai,Corporate,Office Supplies,Notebook Pack,3.0,270.97,0.1,Debit Card
+ORD10019,2024-11-09,East,Patna,Corporate,Electronics,Smartphone,2.0,17004.93,0.1,Net Banking
+ORD10579,2024-11-09,North,Delhi,Consumer,Electronics,Headphones,7.0,2504.87,0.1,Credit Card
+ORD10632,2024-11-09,West,Pune,Consumer,Electronics,Smartwatch,3.0,6603.24,0.1,UPI
+ORD10642,2024-11-09,North,Lucknow,Corporate,Electronics,Smartwatch,3.0,6254.8,0.1,Cash
+ORD11075,2024-11-09,South,Hyderabad,Corporate,Electronics,Laptop,3.0,56526.6,0.1,UPI
+ORD10579,2024-11-09,North,Delhi,Consumer,Electronics,Headphones,7.0,2504.87,0.1,Credit Card
+ORD10152,2024-11-10,West,Ahmedabad,Consumer,Electronics,Headphones,10.0,2508.94,0.1,UPI
+ORD10408,2024-11-10,Central,Bhopal,Small Business,Furniture,Office Chair,3.0,7873.24,0.1,Credit Card
+ORD10521,2024-11-10,West,Ahmedabad,Consumer,Clothing,T-Shirt,2.0,659.32,0.15,Debit Card
+ORD10662,2024-11-10,East,Kolkata,Corporate,Furniture,Study Table,2.0,8178.16,0.1,Debit Card
+ORD10942,2024-11-10,West,Mumbai,Corporate,Electronics,Monitor,2.0,11431.22,0.1,Cash
+ORD11103,2024-11-10,West,Ahmedabad,Consumer,Office Supplies,Whiteboard,7.0,1676.16,0.1,Debit Card
+ORD10715,2024-11-11,East,Bhubaneswar,Corporate,Furniture,Sofa,2.0,34304.15,0.1,Debit Card
+ORD10774,2024-11-11,South,Chennai,Consumer,Electronics,Laptop,2.0,55441.16,0.1,UPI
+ORD10181,2024-11-12,Central,Nagpur,Small Business,Electronics,Smartwatch,3.0,6977.11,0.0,UPI
+ORD10280,2024-11-12,Central,Bhopal,Consumer,Office Supplies,Whiteboard,6.0,1603.25,0.1,UPI
+ORD10452,2024-11-12,West,Ahmedabad,Consumer,Office Supplies,Stapler,9.0,183.68,0.1,Debit Card
+ORD10520,2024-11-12,West,Pune,Corporate,Clothing,Saree,3.0,3518.92,0.1,Credit Card
+ORD10606,2024-11-12,South,Hyderabad,Corporate,Electronics,Monitor,2.0,10871.57,0.0,UPI
+ORD10692,2024-11-12,East,Kolkata,Consumer,Clothing,Jeans,8.0,1552.85,0.1,UPI
+ORD10708,2024-11-12,West,Pune,Consumer,Electronics,Monitor,3.0,11474.3,0.1,UPI
+ORD10073,2024-11-13,East,Patna,Consumer,Office Supplies,Stapler,1.0,179.6,0.2,Cash
+ORD10298,2024-11-13,West,Pune,Consumer,Clothing,Saree,2.0,3425.0,0.1,UPI
+ORD10346,2024-11-13,South,Chennai,Small Business,Furniture,Study Table,1.0,8666.44,0.15,UPI
+ORD10912,2024-11-13,West,Mumbai,Consumer,Electronics,Headphones,5.0,2649.04,0.15,Credit Card
+ORD11163,2024-11-13,South,Chennai,Small Business,Clothing,Saree,10.0,3743.79,0.05,Credit Card
+ORD11167,2024-11-13,South,Chennai,Consumer,Electronics,Headphones,7.0,2557.34,0.05,Credit Card
+ORD10182,2024-11-14,South,Chennai,Small Business,Electronics,Laptop,1.0,47637.67,0.1,UPI
+ORD10441,2024-11-14,North,Chandigarh,Consumer,Office Supplies,Printer Ink,8.0,1230.16,0.1,UPI
+ORD10704,2024-11-14,South,Hyderabad,Corporate,Electronics,Laptop,2.0,49510.13,0.1,Credit Card
+ORD10743,2024-11-14,South,Chennai,Consumer,Office Supplies,Pen Set,1.0,129.99,0.1,Cash
+ORD10956,2024-11-14,South,Chennai,Consumer,Office Supplies,Whiteboard,5.0,1578.77,0.15,Credit Card
+ORD10056,2024-11-15,West,Mumbai,Consumer,Electronics,Headphones,8.0,2283.58,0.0,Debit Card
+ORD10242,2024-11-15,NORTH,Delhi,Consumer,Clothing,Jacket,2.0,2549.01,0.1,UPI
+ORD11098,2024-11-15,East,Kolkata,Consumer,Furniture,Study Table,1.0,8494.75,0.2,UPI
+ORD10139,2024-11-16,WEST,Pune,Consumer,Office Supplies,Printer Ink,5.0,1305.49,0.05,Credit Card
+ORD10343,2024-11-16,North,Lucknow,Consumer,Office Supplies,Printer Ink,10.0,1208.33,0.0,UPI
+ORD11021,2024-11-16,North,Delhi,Small Business,Furniture,Bookshelf,2.0,5151.03,0.05,UPI
+ORD11152,2024-11-16,North,Chandigarh,Corporate,Clothing,T-Shirt,8.0,631.24,0.15,Credit Card
+ORD10434,2024-11-17,North,Chandigarh,Corporate,Clothing,T-Shirt,7.0,632.0,0.0,UPI
+ORD10776,2024-11-17,North,Lucknow,Consumer,Office Supplies,Pen Set,5.0,116.03,0.0,Debit Card
+ORD10045,2024-11-18,West,Mumbai,Corporate,Clothing,Saree,2.0,3776.85,0.1,UPI
+ORD10214,2024-11-18,West,Pune,Consumer,Clothing,Jeans,9.0,1518.76,0.05,UPI
+ORD10279,2024-11-18,North,Chandigarh,Corporate,Furniture,Sofa,1.0,,0.05,UPI
+ORD10607,2024-11-18,South,Bengaluru,Corporate,Clothing,Jeans,8.0,1522.5,0.15,Cash
+ORD11142,2024-11-18,CENTRAL,Bhopal,Consumer,Office Supplies,Notebook Pack,1.0,249.02,0.15,Net Banking
+ORD10014,2024-11-19,East,Bhubaneswar,Consumer,Electronics,Laptop,3.0,48416.13,0.1,Credit Card
+ORD10168,2024-11-19,Central,Indore,Consumer,Furniture,Office Chair,2.0,7663.21,0.1,Debit Card
+ORD10825,2024-11-19,South,Bengaluru,Corporate,Office Supplies,Pen Set,6.0,Rs.122.45,0.0,UPI
+ORD11049,2024-11-19,North,Delhi,Small Business,Electronics,Laptop,1.0,50955.37,0.15,Credit Card
+ORD10151,2024-11-20,North,Lucknow,Small Business,Furniture,Study Table,2.0,8683.93,0.2,UPI
+ORD10358,2024-11-20,East,Patna,Consumer,Office Supplies,Whiteboard,4.0,1649.27,0.05,Debit Card
+ORD11150,2024-11-20,South,Hyderabad,Consumer,Furniture,Study Table,3.0,9195.72,0.2,Credit Card
+ORD10868,2024-11-21,West,Pune,Consumer,Clothing,T-Shirt,2.0,631.7,0.1,Cash
+ORD10990,2024-11-21,West,Ahmedabad,Small Business,Office Supplies,Printer Ink,9.0,1100.2,0.1,Credit Card
+ORD10008,2024-11-22,West,Mumbai,Corporate,Clothing,Saree,3.0,3350.82,0.1,Net Banking
+ORD10198,2024-11-22,West,Ahmedabad,Small Business,Electronics,Monitor,1.0,9956.1,0.1,Net Banking
+ORD10291,2024-11-22,Central,Nagpur,Corporate,Office Supplies,Notebook Pack,7.0,252.41,0.1,UPI
+ORD10459,2024-11-22,South,Bengaluru,Consumer,Electronics,Laptop,3.0,51224.32,0.0,UPI
+ORD10003,2024-11-23,East,Kolkata,Consumer,Office Supplies,Whiteboard,1.0,1599.74,0.2,Credit Card
+ORD10238,2024-11-23,South,Hyderabad,Consumer,Office Supplies,Notebook Pack,9.0,255.13,0.1,UPI
+ORD10383,2024-11-23,South,Hyderabad,Consumer,Electronics,Headphones,8.0,2556.22,0.0,Credit Card
+ORD10543,2024-11-23,South,Hyderabad,Consumer,Office Supplies,Notebook Pack,8.0,243.42,0.1,UPI
+ORD10787,2024-11-23,East,Bhubaneswar,Corporate,Office Supplies,Printer Ink,4.0,1238.24,0.05,UPI
+ORD10829,2024-11-23,North,Lucknow,Corporate,Furniture,Sofa,1.0,Rs.30608.61,0.1,Credit Card
+ORD10863,2024-11-23,West,Pune,Corporate,Electronics,Headphones,6.0,2544.13,0.2,UPI
+ORD10867,2024-11-23,East,Kolkata,,Electronics,Laptop,2.0,55975.05,0.1,Credit Card
+ORD11169,2024-11-23,East,Kolkata,Small Business,Clothing,Saree,6.0,3513.51,0.1,UPI
+ORD10262,2024-11-24,North,Chandigarh,Consumer,Office Supplies,Notebook Pack,7.0,257.45,0.1,UPI
+ORD10325,2024-11-24,West,Mumbai,Consumer,Electronics,Smartphone,3.0,17657.09,0.0,UPI
+ORD10655,2024-11-24,North,Lucknow,Consumer,Furniture,Study Table,3.0,8290.48,0.0,UPI
+ORD10803,2024-11-24,East,Patna,Small Business,Furniture,Office Chair,1.0,7781.83,0.1,Credit Card
+ORD10896,2024-11-24,Central,Bhopal,Corporate,Electronics,Smartphone,2.0,16948.7,0.1,Credit Card
+ORD10982,2024-11-24,Central,Nagpur,Corporate,Furniture,Sofa,2.0,30251.67,0.1,UPI
+ORD10993,2024-11-24,East,Bhubaneswar,Corporate,Office Supplies,Pen Set,2.0,113.07,0.1,Cash
+ORD11144,2024-11-24,West,Mumbai,Consumer,Office Supplies,Notebook Pack,6.0,272.84,0.2,UPI
+ORD10024,2024-11-25,South,Bengaluru,Consumer,Clothing,Jacket,8.0,2640.54,0.15,Cash
+ORD10116,2024-11-25,South,Chennai,Corporate,Clothing,Jacket,,2605.96,0.1,UPI
+ORD10167,2024-11-25,North,Delhi,Corporate,Furniture,Bookshelf,2.0,4967.88,0.15,Cash
+ORD10502,2024-11-25,North,Delhi,,Electronics,Headphones,7.0,2381.29,0.1,Credit Card
+ORD10657,2024-11-25,North,Lucknow,Consumer,Office Supplies,Pen Set,8.0,125.87,0.1,Net Banking
+ORD10667,2024-11-25,East,Patna,Corporate,Furniture,Bookshelf,2.0,5475.42,0.1,Net Banking
+ORD10846,2024-11-25,West,Pune,Corporate,Furniture,Sofa,2.0,Rs.29804.58,0.2,UPI
+ORD11123,2024-11-25,West,Ahmedabad,Corporate,Electronics,Headphones,6.0,2510.87,0.1,UPI
+ORD10390,2024-11-26,North,Lucknow,Consumer,Furniture,Study Table,1.0,8596.2,0.1,Net Banking
+ORD10426,2024-11-26,South,Hyderabad,Consumer,Furniture,Study Table,2.0,8316.51,0.15,Credit Card
+ORD10506,2024-11-26,North,Chandigarh,Corporate,Electronics,Monitor,3.0,10465.71,0.15,Cash
+ORD10707,2024-11-26,East,Kolkata,Corporate,Electronics,Laptop,2.0,53282.94,0.1,Credit Card
+ORD10939,2024-11-26,East,Kolkata,Consumer,Clothing,Jacket,10.0,2854.26,0.0,UPI
+ORD10046,2024-11-27,Central,Nagpur,Consumer,Electronics,Monitor,3.0,11594.2,0.0,Cash
+ORD10252,2024-11-27,West,Ahmedabad,Consumer,Clothing,Saree,10.0,3482.65,0.1,Cash
+ORD10397,2024-11-27,West,Ahmedabad,Consumer,Office Supplies,Pen Set,1.0,115.18,0.1,Cash
+ORD10630,2024-11-27,Central,Indore,Corporate,Electronics,Smartphone,2.0,19265.94,0.1,UPI
+ORD10646,2024-11-27,South,Bengaluru,Consumer,Office Supplies,Notebook Pack,4.0,,0.1,Credit Card
+ORD11018,2024-11-27,North,Delhi,Corporate,Office Supplies,Printer Ink,1.0,1133.89,0.15,Cash
+ORD11148,2024-11-27,West,Ahmedabad,Consumer,Furniture,Study Table,3.0,9124.08,0.1,Cash
+ORD10876,2024-11-28,North,Lucknow,Consumer,Office Supplies,Whiteboard,2.0,1631.6,0.1,Credit Card
+ORD11118,2024-11-28,Central,Bhopal,Consumer,Furniture,Study Table,3.0,9489.65,0.2,Net Banking
+ORD11120,2024-11-28,East,Bhubaneswar,Corporate,Office Supplies,Printer Ink,5.0,1243.27,0.05,Debit Card
+ORD10295,2024-11-29,Central,Indore,Small Business,Electronics,Headphones,4.0,2370.74,0.0,Debit Card
+ORD10370,2024-11-29,North,Delhi,Corporate,Clothing,Saree,7.0,3779.72,0.0,UPI
+ORD10414,2024-11-29,South,Hyderabad,Consumer,Office Supplies,Printer Ink,2.0,1118.18,0.1,UPI
+ORD10428,2024-11-29,South,Hyderabad,Consumer,Office Supplies,Notebook Pack,4.0,238.81,0.1,Credit Card
+ORD10508,2024-11-29,west,Pune,Consumer,Furniture,Sofa,3.0,31187.29,0.0,UPI
+ORD10179,2024-11-30,Central,Nagpur,Corporate,Clothing,Jeans,10.0,1639.31,0.1,Debit Card
+ORD10403,2024-11-30,East,Patna,Consumer,Office Supplies,Stapler,6.0,169.99,0.1,Credit Card
+ORD10406,2024-11-30,South,Hyderabad,Small Business,Clothing,Jacket,8.0,2799.34,0.1,Debit Card
+ORD10563,2024-11-30,East,Kolkata,Corporate,Electronics,Smartwatch,3.0,6568.72,0.15,Credit Card
+ORD10749,2024-11-30,North,Delhi,Consumer,Electronics,Laptop,3.0,54917.34,0.1,UPI
+ORD11193,2024-11-30,Central,Bhopal,Small Business,Office Supplies,Whiteboard,10.0,1650.25,0.2,Credit Card
+ORD10999,2024-12-01,East,Patna,Small Business,Office Supplies,Printer Ink,,1204.26,0.05,Debit Card
+ORD10012,2024-12-02,South,Chennai,Consumer,Electronics,Headphones,2.0,2675.26,0.05,Debit Card
+ORD10388,2024-12-02,South,Chennai,Consumer,Office Supplies,Stapler,10.0,180.26,0.05,Debit Card
+ORD10613,2024-12-02,West,Ahmedabad,Consumer,Clothing,Jacket,10.0,3017.56,0.1,Net Banking
+ORD11109,2024-12-02,South,Bengaluru,Consumer,Clothing,Jacket,3.0,2858.07,0.0,Debit Card
+ORD10191,2024-12-03,Central,Nagpur,Consumer,Electronics,Headphones,7.0,2494.49,0.15,UPI
+ORD10235,2024-12-03,South,Bengaluru,Consumer,Electronics,Smartwatch,,6895.05,0.15,UPI
+ORD11014,2024-12-03,East,Bhubaneswar,Consumer,Electronics,Monitor,3.0,10153.1,0.1,UPI
+ORD11135,2024-12-03,SOUTH,Bengaluru,Corporate,Office Supplies,Notebook Pack,8.0,237.76,0.05,Cash
+ORD10023,2024-12-04,South,Bengaluru,Consumer,Furniture,Bookshelf,1.0,6016.4,0.0,UPI
+ORD10104,2024-12-04,South,Hyderabad,Consumer,Furniture,Sofa,3.0,34516.03,0.1,UPI
+ORD10110,2024-12-04,East,Kolkata,Consumer,Furniture,Office Chair,2.0,7063.92,0.15,Debit Card
+ORD10297,2024-12-04,West,Pune,Corporate,Office Supplies,Pen Set,5.0,111.88,0.0,UPI
+ORD10342,2024-12-04,Central ,Bhopal,Consumer,Furniture,Study Table,3.0,8394.17,0.0,Debit Card
+ORD10386,2024-12-04,North,Delhi,Consumer,Electronics,Headphones,5.0,2558.56,0.15,UPI
+ORD10677,2024-12-04,North,Chandigarh,Corporate,Office Supplies,Whiteboard,1.0,1750.02,0.0,UPI
+ORD10765,2024-12-04,North,Lucknow,Consumer,Furniture,Study Table,3.0,9360.46,0.0,UPI
+ORD10905,2024-12-04,West,Mumbai,Small Business,Office Supplies,Stapler,7.0,189.03,0.2,UPI
+ORD11130,2024-12-04,East,Bhubaneswar,Consumer,Electronics,Monitor,2.0,10522.27,0.05,Net Banking
+ORD10361,2024-12-05,North,Lucknow,Consumer,Electronics,Smartwatch,3.0,6819.94,0.1,Debit Card
+ORD10468,2024-12-05,South,Hyderabad,Corporate,Office Supplies,Notebook Pack,3.0,266.45,0.0,Cash
+ORD10965,2024-12-05,North,Lucknow,Small Business,Electronics,Headphones,8.0,2450.46,0.1,Debit Card
+ORD11114,2024-12-05,North,Lucknow,Corporate,Office Supplies,Notebook Pack,2.0,226.33,0.05,Net Banking
+ORD10320,2024-12-06,South,Bengaluru,Corporate,Clothing,Jeans,6.0,1546.59,0.1,Credit Card
+ORD10405,2024-12-06,Central,Bhopal,Consumer,Electronics,Smartphone,2.0,17791.58,0.1,UPI
+ORD10410,2024-12-06,West,Pune,Consumer,Electronics,Headphones,8.0,2564.89,0.1,Debit Card
+ORD10544,2024-12-06,South,Chennai,Consumer,Office Supplies,Pen Set,6.0,109.81,0.1,UPI
+ORD10688,2024-12-06,North,Chandigarh,Corporate,Electronics,Laptop,1.0,47443.02,0.0,Debit Card
+ORD10202,2024-12-07,East,Kolkata,Corporate,Clothing,Saree,3.0,3514.54,0.0,UPI
+ORD10265,2024-12-07,South,Bengaluru,Corporate,Electronics,Headphones,9.0,2592.92,0.1,Credit Card
+ORD10347,2024-12-07,South,Bengaluru,Small Business,Office Supplies,Printer Ink,8.0,1213.13,0.15,Debit Card
+ORD10782,2024-12-07,West,Ahmedabad,Consumer,Electronics,Headphones,8.0,2631.66,0.0,UPI
+ORD10914,2024-12-07,West,Mumbai,Corporate,Clothing,T-Shirt,9.0,579.7,0.1,Credit Card
+ORD10673,2024-12-08,West,Ahmedabad,Consumer,Office Supplies,Whiteboard,10.0,1724.91,0.2,Debit Card
+ORD10810,2024-12-08,West,Ahmedabad,Consumer,Electronics,Laptop,2.0,48207.39,0.05,Net Banking
+ORD10986,2024-12-08,East ,Bhubaneswar,Consumer,Furniture,Office Chair,1.0,6756.34,0.15,Debit Card
+ORD11082,2024-12-08,East,Patna,Consumer,Clothing,T-Shirt,4.0,655.21,0.0,Credit Card
+ORD11115,2024-12-09,West,Mumbai,Corporate,Furniture,Sofa,2.0,32057.05,0.05,Credit Card
+ORD10528,2024-12-10,South,Hyderabad,Small Business,Furniture,Study Table,2.0,9089.04,0.0,Credit Card
+ORD10528,2024-12-10,South,Hyderabad,Small Business,Furniture,Study Table,2.0,9089.04,0.0,Credit Card
+ORD10137,2024-12-11,South,Chennai,Consumer,Electronics,Smartphone,2.0,19032.99,0.05,UPI
+ORD10340,2024-12-11,West,Mumbai,Consumer,Office Supplies,Printer Ink,7.0,1166.24,0.05,Debit Card
+ORD10813,2024-12-11,South,Chennai,Consumer,Office Supplies,Whiteboard,6.0,1545.93,0.0,Net Banking
+ORD10995,2024-12-11,East,Patna,Consumer,Electronics,Headphones,9.0,2600.96,0.0,UPI
+ORD11034,2024-12-11,Central,Bhopal,Small Business,Electronics,Headphones,,2313.55,0.1,Cash
+ORD10162,2024-12-12,West,Mumbai,Corporate,Electronics,Smartphone,1.0,17028.37,0.2,Credit Card
+ORD10296,2024-12-12,East,Kolkata,Small Business,Furniture,Bookshelf,3.0,5884.62,0.0,UPI
+ORD10623,2024-12-12,South,Chennai,Corporate,Electronics,Smartphone,2.0,19599.52,0.1,Credit Card
+ORD10625,2024-12-12,East,Kolkata,Corporate,Office Supplies,Stapler,1.0,196.88,0.15,Debit Card
+ORD10854,2024-12-12,South,Bengaluru,Consumer,Electronics,Laptop,2.0,47634.92,0.05,Debit Card
+ORD11007,2024-12-12,North,Chandigarh,Corporate,Electronics,Laptop,2.0,56960.3,0.1,Debit Card
+ORD11131,2024-12-12,South,Hyderabad,Small Business,Clothing,Saree,1.0,3444.7,0.0,Credit Card
+ORD10174,2024-12-13,South,Bengaluru,Consumer,Furniture,Sofa,2.0,30018.68,0.0,UPI
+ORD10850,2024-12-13,North,Chandigarh,Consumer,Furniture,Sofa,3.0,31315.93,0.0,Debit Card
+ORD10915,2024-12-13,South,Chennai,Consumer,Electronics,Smartwatch,1.0,6381.5,0.0,UPI
+ORD11061,2024-12-13,West,Mumbai,Corporate,Office Supplies,Stapler,9.0,173.48,0.0,Cash
+ORD11085,2024-12-13,West,Ahmedabad,Consumer,Electronics,Monitor,2.0,10993.29,0.0,Debit Card
+ORD10178,2024-12-14,East,Patna,Consumer,Furniture,Sofa,1.0,29991.29,0.0,UPI
+ORD10402,2024-12-14,South,Hyderabad,Consumer,Electronics,Smartphone,2.0,18487.2,0.05,Debit Card
+ORD10554,2024-12-14,South,Hyderabad,Small Business,Office Supplies,Printer Ink,2.0,1084.95,0.2,Net Banking
+ORD10599,2024-12-14,West,Ahmedabad,Consumer,Electronics,Smartphone,3.0,17265.92,0.0,Debit Card
+ORD10591,2024-12-15,Central,Indore,Consumer,Office Supplies,Notebook Pack,1.0,250.29,0.1,Credit Card
+ORD10892,2024-12-15,East,Patna,Consumer,Electronics,Smartwatch,3.0,Rs.6296.01,0.0,Net Banking
+ORD11027,2024-12-15,North,Delhi,Small Business,Clothing,Jeans,4.0,1590.29,0.1,Cash
+ORD10577,2024-12-16,South,Hyderabad,Consumer,Electronics,Smartphone,2.0,19245.78,0.1,Credit Card
+ORD10974,2024-12-16,South,Hyderabad,Corporate,Office Supplies,Notebook Pack,9.0,237.08,0.0,Cash
+ORD10032,2024-12-17,East,Bhubaneswar,Small Business,Office Supplies,Pen Set,3.0,126.9,0.1,Net Banking
+ORD10377,2024-12-17,west,Ahmedabad,Small Business,Electronics,Laptop,3.0,48176.81,0.15,UPI
+ORD10711,2024-12-17,East,Patna,Corporate,Clothing,Jeans,2.0,1520.71,0.1,Credit Card
+ORD10937,2024-12-17,South,Chennai,Corporate,Clothing,Jeans,5.0,1510.3,0.0,UPI
+ORD10226,2024-12-18,East,Bhubaneswar,Consumer,Clothing,Saree,2.0,3416.66,0.05,UPI
+ORD10457,2024-12-18,West,Pune,Consumer,Office Supplies,Whiteboard,3.0,1626.72,0.0,UPI
+ORD11194,2024-12-18,East,Bhubaneswar,Corporate,Clothing,T-Shirt,1.0,603.24,0.1,UPI
+ORD11023,2024-12-19,East,Patna,Corporate,Electronics,Smartwatch,2.0,6802.25,0.1,Debit Card
+ORD10321,2024-12-20,South,Chennai,Corporate,Electronics,Smartwatch,1.0,6960.84,0.0,UPI
+ORD10527,2024-12-20,North,Lucknow,Corporate,Electronics,Smartphone,3.0,18672.21,0.05,Debit Card
+ORD10724,2024-12-20,East,Bhubaneswar,Consumer,Office Supplies,Notebook Pack,2.0,270.1,0.05,Cash
+ORD10785,2024-12-20,South,Bengaluru,Corporate,Clothing,T-Shirt,7.0,582.5,0.0,Cash
+ORD10866,2024-12-20,East,Bhubaneswar,Consumer,Clothing,T-Shirt,4.0,606.18,0.1,Net Banking
+ORD10967,2024-12-20,South,Hyderabad,Consumer,Office Supplies,Notebook Pack,3.0,237.26,0.05,Net Banking
+ORD10219,2024-12-21,South,Chennai,Consumer,Clothing,Jeans,6.0,1481.76,0.05,Credit Card
+ORD10873,2024-12-21,West,Pune,Corporate,Electronics,Headphones,2.0,2655.35,0.0,Credit Card
+ORD10101,2024-12-22,South,Chennai,Corporate,Electronics,Laptop,1.0,53611.96,0.0,Debit Card
+ORD10420,2024-12-22,South,Chennai,Consumer,Office Supplies,Whiteboard,7.0,1664.6,0.05,Credit Card
+ORD10605,2024-12-22,South,Chennai,Consumer,Office Supplies,Stapler,3.0,190.18,0.0,UPI
+ORD10668,2024-12-22,South,Bengaluru,Corporate,Office Supplies,Printer Ink,7.0,1239.99,0.1,Cash
+ORD11188,2024-12-22,West,Ahmedabad,Consumer,Electronics,Smartwatch,3.0,6582.24,0.0,UPI
+ORD10541,2024-12-23,Central,Nagpur,Consumer,Furniture,Office Chair,1.0,7124.0,0.05,UPI
+ORD10585,2024-12-23, West,Pune,Consumer,Electronics,Laptop,1.0,51597.68,0.05,UPI
+ORD10614,2024-12-23,South,Hyderabad,Consumer,Office Supplies,Printer Ink,9.0,1118.51,0.15,Credit Card
+ORD10631,2024-12-23,North,Delhi,Consumer,Electronics,Headphones,10.0,2704.9,0.05,Debit Card
+ORD11057,2024-12-24,South,Hyderabad,Consumer,Clothing,Saree,3.0,3272.7,0.0,Debit Card
+ORD11066,2024-12-24,East,Patna,Corporate,Furniture,Office Chair,1.0,7978.42,0.0,Credit Card
+ORD10132,2024-12-25,Central,Nagpur,Consumer,Office Supplies,Whiteboard,1.0,1630.67,0.0,UPI
+ORD11083,2024-12-25,Central,Nagpur,Consumer,Clothing,Jeans,7.0,1400.76,0.05,Debit Card
+ORD10006,2024-12-26,West,Mumbai,Consumer,Electronics,Smartphone,2.0,16755.42,0.2,Debit Card
+ORD10463,2024-12-26,West,Mumbai,Consumer,Furniture,Study Table,2.0,8176.21,0.05,UPI
+ORD10981,2024-12-26,North,Delhi,Consumer,Furniture,Sofa,3.0,30367.17,0.0,Cash
+ORD10981,2024-12-26,North,Delhi,Consumer,Furniture,Sofa,3.0,30367.17,0.0,Cash
+ORD10447,2024-12-27,South,Hyderabad,Corporate,Electronics,Smartphone,1.0,17254.25,0.0,UPI
+ORD10503,2024-12-27,South,Hyderabad,Corporate,Office Supplies,Whiteboard,3.0,1560.18,0.0,UPI
+ORD10720,2024-12-27,North,Chandigarh,Consumer,Office Supplies,Whiteboard,2.0,1566.26,0.0,Credit Card
+ORD10916,2024-12-27,West,Mumbai,Small Business,Office Supplies,Whiteboard,,1692.33,0.15,Cash
+ORD11074,2024-12-28,South,Bengaluru,Consumer,Electronics,Smartphone,2.0,19725.65,0.0,Debit Card
+ORD10100,2024-12-29,South,Hyderabad,Consumer,Electronics,Monitor,2.0,11392.28,0.1,Credit Card
+ORD10170,2024-12-29,Central,Nagpur,Consumer,Clothing,Jeans,10.0,1489.65,0.0,UPI
+ORD10224,2024-12-29,East,Bhubaneswar,Small Business,Office Supplies,Stapler,9.0,186.53,0.0,Debit Card
+ORD10233,2024-12-29,South,Bengaluru,Corporate,Furniture,Study Table,1.0,8796.63,0.0,UPI
+ORD10293,2024-12-29,South,Chennai,Consumer,Office Supplies,Pen Set,8.0,116.52,0.05,UPI
+ORD10431,2024-12-29,South,Bengaluru,Corporate,Office Supplies,Stapler,5.0,174.37,0.2,Debit Card
+ORD10603,2024-12-29,North,Delhi,,Clothing,Jacket,5.0,2636.9,0.0,Debit Card
+ORD10695,2024-12-29,West,Pune,Consumer,Furniture,Sofa,3.0,33216.16,0.1,UPI
+ORD10714,2024-12-29,West,Pune,Consumer,Clothing,Saree,6.0,3165.68,0.05,UPI
+ORD10913,2024-12-29,North,Lucknow,Corporate,Electronics,Monitor,1.0,11498.6,0.1,UPI
+ORD10143,2024-12-30,South,Chennai,Consumer,Electronics,Headphones,5.0,Rs.2262.11,0.0,UPI
+ORD10382,2024-12-30,Central,Nagpur,Consumer,Office Supplies,Notebook Pack,2.0,242.24,0.05,UPI
+ORD10758,2024-12-31,West,Pune,Consumer,Office Supplies,Pen Set,9.0,115.18,0.1,Credit Card
+ORD10838,2024-12-31,East,Bhubaneswar,Corporate,Clothing,Jacket,5.0,3065.06,0.1,UPI
+ORD10883,2024-12-31,West,Pune,Consumer,Office Supplies,Whiteboard,4.0,1486.59,0.1,Cash
+ORD10955,2024-12-31,West,Pune,Consumer,Office Supplies,Whiteboard,6.0,1504.49,0.15,Net Banking
